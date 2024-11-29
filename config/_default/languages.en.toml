@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Nousagi"
+title = "Nousagi Gang"
 
 [params]
   displayName = "EN"
@@ -15,7 +15,7 @@ title = "Nousagi"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Nousagi"
+  name = "Nousagi Gang"
   # email = "username@example.com"
   image = "img/banner.png" # "img/avatar.png"
   imageQuality = 96

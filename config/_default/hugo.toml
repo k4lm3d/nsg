@@ -7,7 +7,7 @@ baseURL = "https://nousagi.onrender.com/"
 defaultContentLanguage = "en"
 
 # hugo function useful for non-english languages, find out more in https://gohugo.io/getting-started/configuration/#pluralizelisttitles
-# pluralizeListTitles = "true"
+pluralizeListTitles = "true"
 
 enableRobotsTXT = true
 paginate = 10
