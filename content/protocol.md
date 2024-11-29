@@ -19,7 +19,7 @@ While specific protocols can vary depending on the game and community, here are 
 
     - **Respect different play styles** - Not everyone plays the same way.
 
-    - **Help Other Players (H.O.P.)** - Actively assist other players, especially newcomers, by offering advice, tips, and support.
+    - **Help Other Players (H.O.P.)** - Actively assist other players, especially newcomers, by offering advice, tips, and support. (See more [here](/hop/))
 
 2. **Fair Play**
 
@@ -55,7 +55,6 @@ While specific protocols can vary depending on the game and community, here are 
 
     - **Learn from mistakes** - Use setbacks as opportunities to improve.
 
-
 ## Additionals
 
 Additional considerations for online gaming:
@@ -68,25 +67,4 @@ Additional considerations for online gaming:
 
   - **Mental Health** - Take breaks and avoid excessive gaming to prevent burnout.
 
-
-<!--
-Please go ahead and share the additional details you'd like to include in the gaming protocol.
-
-Here are some ideas to consider:
-
-  - Specific game rules: If you have particular rules for a specific game, please provide them.
-
-  - Teamwork and cooperation: If the game involves teamwork, emphasize the importance of communication, coordination, and mutual respect.
-
-  - Toxicity and harassment: Clearly outline the consequences of toxic behavior, such as verbal abuse, threats, or harassment.
-
-  - Fairness and balance: Discuss strategies to ensure fair gameplay, such as balancing character abilities or limiting certain items.
-
-  - Ethical gaming: Encourage players to avoid cheating, exploiting glitches, or using unfair advantages.
-
-Please feel free to provide any other specific requirements or preferences you may have.
--->
-
-
 ***By following these guidelines, you can contribute to a positive, supportive, and enjoyable gaming community, and you can ensure a healthy and balanced gaming experience.***
-
