@@ -21,9 +21,14 @@
   weight = 11
 
 [[main]]
+  name = "Members"
+  pageRef = "members"
+  weight = 12
+
+[[main]]
   name = "Contributions"
   pageRef = "contributions"
-  weight = 12
+  weight = 13
 
 #[[main]]
 #  name = "Parent"

@@ -20,10 +20,10 @@ A **cybernetic entity** is a being that blends biological and mechanical parts. 
 
 An **enforcer** is someone who makes sure rules or laws are followed.
 
-### Technomancer
+### What is a Technomancer?
 
 A **Technomancer** is a skilled individual who specializes in managing and configuring servers and bots. They possess a deep understanding of server settings, bot commands, and troubleshooting techniques. Essentially, they are the technical experts who keep online communities running smoothly.
 
-### Harewire
+### What is Harewire?
 
 **Harewire** is the Nousagi's internal alert system. It's a network of digital channels and implanted devices that instantly delivers urget messages to all gang members. When a Harewire is activated, it's like a digital wildfire, spreading critical information throughout the gang's network.
