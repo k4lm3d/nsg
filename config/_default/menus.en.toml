@@ -1,7 +1,7 @@
 # -- Main Menu --
 # The main menu is displayed in the header at the top of the page.
 # Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
+#
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
 #   pageRef = The identifier of the page or section to link to
@@ -14,6 +14,26 @@
 #  name = "Blog"
 #  pageRef = "posts"
 #  weight = 10
+
+[[main]]
+  name = "Members"
+  pageRef = "members"
+  weight = 11
+
+[[main]]
+  name = "Roles"
+  pageRef = "roles"
+  weight = 11
+
+[[main]]
+  name = "Terminologies"
+  pageRef = "terminologies"
+  weight = 12
+
+[[main]]
+  name = "Contributions"
+  pageRef = "contributions"
+  weight = 13
 
 #[[main]]
 #  name = "Parent"
@@ -67,3 +87,18 @@
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
+[[footer]]
+  name = "Community Guidelines"
+  pageRef = "guidelines"
+  weight = 10
+
+[[footer]]
+  name = "Gaming Protocol"
+  pageRef = "protocol"
+  weight = 11
+
+[[footer]]
+  name = "H.O.P Protocol"
+  pageRef = "hop"
+  weight = 12
