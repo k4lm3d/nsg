@@ -3,23 +3,7 @@ title: ""
 description: ""
 ---
 
-{{< button href="guidelines" >}}
-  {{< icon "link" >}} Community Guidelines
-{{< /button >}}
-
-<br>
-<br>
-
-{{< button href="protocol" >}}
-  {{< icon "link" >}} Gaming Protocol
-{{< /button >}}
-
-<br>
-<br>
-
-{{< button href="hop" >}}
-  {{< icon "link" >}} H.O.P. Protocol
-{{< /button >}}
+**Nousagi Gang** is a Filipino gaming collective, united by our love for text-based MMORPGs like [CyberCode Online](https://cybercodeonline.com) and [Arclight City](https://arclightcity.net). We enjoy playing together and sharing our experiences.
 
 <br>
 <br>

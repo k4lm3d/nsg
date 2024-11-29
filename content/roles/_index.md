@@ -7,7 +7,7 @@ draft: false
 ## Core Roles
 
 ### Server Leadership
-- **Overlord** - The supreme leader, often the server owner
+- **Overlord** - The supreme leader, often the server owner.
 - **Councilor** - Trusted advisors who assist the Overloard in decision-making.
 
 ### Moderation Team
@@ -15,6 +15,7 @@ draft: false
 - **Technomancer** - Members skilled in server management, bot configuration, and technical support. Handles technical support.
 
 ### General Membership
+- **Event Architect** - Plans and executes server events.
 - **Muscle** - Enforcer in training.
 <!-- - **Fixer** - Negotiator, information broker. -->
 <!-- - **Runner** - Mercenary, freelance operative. -->
@@ -45,9 +46,9 @@ draft: false
 - **Server Veteran** - Long-time member of the server.
 - **Legendary Runner** - Accomplished and respected runner. -->
 
-### Prison Roles
+<!-- ### Prison Roles
 - **Cybernetic Quarantine** - A digital quarantine, restricting access to specific channels or voice channels. (Time-out, Temporary Restriction)
 - **Circuit Breaker** - A temporaty shutdown, limiting a member's ability to interact with the server. (Silenced, Muted)
 - **Neural Network Reset** - A complete reset, revoking all permissions and forcing temporary ban. (Kicked, Temporary Excluded)
 - **Data Purge** - A permanent ban, erasing the member's digital footprint from the server. (Exiled, Banned)
-- **Digital Exile** - A severe punishment, involving a permanent ban and potential blacklisting from future interactions. (Blacklisted)
+- **Digital Exile** - A severe punishment, involving a permanent ban and potential blacklisting from future interactions. (Blacklisted) -->
