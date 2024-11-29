@@ -21,8 +21,13 @@
   weight = 11
 
 [[main]]
-  name = "Members"
-  pageRef = "members"
+  name = "Roles"
+  pageRef = "roles"
+  weight = 11
+
+[[main]]
+  name = "Terminologies"
+  pageRef = "terminologies"
   weight = 12
 
 [[main]]
