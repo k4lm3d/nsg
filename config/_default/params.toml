@@ -43,7 +43,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  # homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -52,7 +52,7 @@ smartTOCHideUnfocusedChildren = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
-[article]
+[article] # entry/post
   showDate = false
   showViews = false
   showLikes = false
@@ -61,7 +61,7 @@ smartTOCHideUnfocusedChildren = true
   showAuthor = false
   # showAuthorBottom = false
   showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -71,7 +71,7 @@ smartTOCHideUnfocusedChildren = true
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = false
-  showPagination = false
+  showPagination = true
   invertPagination = false
   showReadingTime = false
   showTableOfContents = false
@@ -83,9 +83,9 @@ smartTOCHideUnfocusedChildren = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
 
-[list]
+[list] # feed
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -106,7 +106,7 @@ smartTOCHideUnfocusedChildren = true
 [taxonomy]
   showTermCount = true
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -115,7 +115,7 @@ smartTOCHideUnfocusedChildren = true
 
 [term]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -124,7 +124,7 @@ smartTOCHideUnfocusedChildren = true
   cardView = false
   cardViewScreenWidth = false
 
-[firebase]
+# [firebase]
   # apiKey = "XXXXXX"
   # authDomain = "XXXXXX"
   # projectId = "XXXXXX"
@@ -133,28 +133,28 @@ smartTOCHideUnfocusedChildren = true
   # appId = "XXXXXX"
   # measurementId = "XXXXXX"
 
-[fathomAnalytics]
+# [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
-[umamiAnalytics]
+# [umamiAnalytics]
   # websiteid = "ABC12345"
   # domain = "llama.yoursite.com"
   # dataDomains = "yoursite.com,yoursite2.com"
   # enableTrackEvent = true
 
-[selineAnalytics]
+# [selineAnalytics]
   # token = "XXXXXX"
   # enableTrackEvent = true
 
-[buymeacoffee]
+# [buymeacoffee]
   # identifier = ""
   # globalWidget = true
   # globalWidgetMessage = "Hello"
   # globalWidgetColor = "#FFDD00"
   # globalWidgetPosition = "Right"
 
-[verification]
+# [verification]
   # google = ""
   # bing = ""
   # pinterest = ""
