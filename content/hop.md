@@ -6,6 +6,8 @@ description: "H.O.P. Protocol: A Guide for Helping Other Players"
 showDate: true
 ---
 
+![H.O.P. Protocol](/banners/hop-protocol.gif)
+
 > *"We love to help other players!"* &mdash;krolik
 
 ## Understanding the H.O.P. Protocol
