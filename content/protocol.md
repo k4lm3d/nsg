@@ -7,6 +7,8 @@ description: "Gaming Protocol: A Guide to Fair Play and Positive Gaming Experien
 
 A gaming protocol is a set of rules and guidelines designed to ensure a positive and fair gaming experience for all participants.
 
+![Gaming Principles](/banners/gaming-principles.gif)
+
 ## Core Principles
 
 While specific protocols can vary depending on the game and community, here are some core principles to consider:
