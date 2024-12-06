@@ -6,7 +6,7 @@
 
 ### Site information
 
-  - Site name:  `Nousagi`
+  - Site name:  `Nousagi Gang`
   - Description:  `Website`
   - Theme: [Blowfish](https://github.com/nunocoracao/blowfish/) by [Nuno Coracao](https://n9o.xyz) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
 
@@ -21,7 +21,7 @@
 
 #### Repository
 
-  - Main: [github.com/k4lm3d/nousagi](https://github.com/k4lm3d/nousagi)
+  - Main: [github.com/k4lm3d/nsg](https://github.com/k4lm3d/nsg)
   - Branch: `main`
   - Owner: [k4lm3d](https://github.com/k4lm3d/)
 
@@ -46,6 +46,7 @@
   - Primary domain: [onrender.com](https://onrender.com)
   - Redirects automatically to primary domain: `false`
   - Domain alias: `nousagi`
+  - Development: [nsg-dev.onrender.com](https://nsg-dev.onrender.com)
 
 ### Resources
 

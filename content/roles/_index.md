@@ -6,29 +6,39 @@ draft: false
 
 ## Core Roles
 
-### Server Leadership
-- **Overlord** - The supreme leader, often the server owner.
-- **Councilor** - Trusted advisors who assist the Overloard in decision-making.
+### SysOps
 
-### Moderation Team
-- **Enforcer** - Moderators with authority to enforce rules and manage desputes. Maintains order and security.
-- **Technomancer** - Members skilled in server management, bot configuration, and technical support. Handles technical support.
+{{< alert "lightbulb" >}}
+	**SysOps** - Refers to the team or individuals responsible for the day-to-day running and maintenance of server.
+{{< /alert >}}
+
+- Server Leadership
+	- **Overlord** - The supreme leader, often the server owner.
+	- **Councilor** - Trusted advisors who assist the Overloard in decision-making.
+
+- Moderation Team
+	- **Technomancer** - Members skilled in server management, bot configuration, and technical support. Handles technical support.
+	- **Enforcer** - Moderators with authority to enforce rules and manage desputes. Maintains order and security.
 
 ### General Membership
+
 - **Event Architect** - Plans and executes server events.
 - **Muscle** - Enforcer in training.
 <!-- - **Fixer** - Negotiator, information broker. -->
 <!-- - **Runner** - Mercenary, freelance operative. -->
 <!-- - **Street Rat** - New recruit, low-level member. -->
-- **Citizen** - Regular members of the server.
+- **Citizen** - Regular members of the server. (Verified)
 
 ## Other Roles
 
-### Additional Roles
+<!-- ### Additional Roles -->
+
 - **Cybernectic Entity** - Discord bot, AI assistant.
+- **Patron of the Net** - Generous supporter of the server.
 - **Allied Operative** - Trusted ally, collaborator, valueable asset to the team.
 - **Transient** - Guest, temporary visitor to the server.
-- **Patron of the Net** - Generous supporter of the server.
+- **Bio-Unit** - A human being.
+- **Zero** - Unverified member of the server.
 
 <!-- ### Special Roles
 - Biohacker
@@ -52,3 +62,17 @@ draft: false
 - **Neural Network Reset** - A complete reset, revoking all permissions and forcing temporary ban. (Kicked, Temporary Excluded)
 - **Data Purge** - A permanent ban, erasing the member's digital footprint from the server. (Exiled, Banned)
 - **Digital Exile** - A severe punishment, involving a permanent ban and potential blacklisting from future interactions. (Blacklisted) -->
+
+<!-- # Game-Related Roles
+
+- **Tagalog Channel** (Access: CyberCode Online related channels)
+	- Gang Members (Access: Gang-related channels)
+		- **NSG Leader (CCO)**
+		- **NSG Members (CCO)**
+	- **CCO Friends** (Access: CCO chat)
+
+- **ALC Republic** (Access: Arclight City related channels)
+	- Gang Members (Access: Gang-related channels)
+		- **NSG Leader (ALC)**
+		- **NSG Members (ALC)**
+	- **ALC Friends** (Access: ALC chat) -->
