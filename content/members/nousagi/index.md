@@ -13,3 +13,5 @@ showLikes: false
 showViews: false
 layoutBackgroundHeaderSpace: false
 ---
+
+<img src="feature.png" width="250">
