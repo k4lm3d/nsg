@@ -6,8 +6,9 @@
 
 ### Site information
 
-  - Site name:  `Nousagi`
-  - Description:  `Website`
+  - Site name:  `Nousagi Gang`
+  - Description:  `Gaming Group Website`
+  - Powered by [Hugo](https://gohugo.io)
   - Theme: [Blowfish](https://github.com/nunocoracao/blowfish/) by [Nuno Coracao](https://n9o.xyz) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
 
 [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.87.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.87.0)
@@ -21,7 +22,7 @@
 
 #### Repository
 
-  - Main: [github.com/k4lm3d/nousagi](https://github.com/k4lm3d/nousagi)
+  - Main: [github.com/k4lm3d/nsg](https://github.com/k4lm3d/nsg)
   - Branch: `main`
   - Owner: [k4lm3d](https://github.com/k4lm3d/)
 
