@@ -5,7 +5,7 @@ title: 'K4LM3D'
 tags: ["CyberCode Online", "Arclight City"]
 description: "Time is precious. Waste it wisely. -K.B."
 # externalUrl: "https://kalmed.localplayer.dev"
-weight: 02
+weight: 04
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -46,9 +46,6 @@ heroStyle: "background"
 {{< /button >}} &nbsp;
 {{< button href="https://www.instagram.com/k4lm3d" target="_blank" >}}
 {{< icon "instagram" >}} Instagram
-{{< /button >}} &nbsp;
-{{< button href="https://tiktok.com/@k4lm3d" target="_blank" >}}
-{{< icon "tiktok" >}} Tiktok
 {{< /button >}} &nbsp;
 
 <!-- #### Timeline -->
