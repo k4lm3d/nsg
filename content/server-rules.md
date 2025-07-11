@@ -4,7 +4,7 @@ date: 2024-11-15T03:42:51+08:00
 draft: false
 ---
 
-![Banner](https://cdn.discordapp.com/attachments/1309624833843400807/1315929687796486214/NSG_ServerRulesBanner.gif?ex=68720206&is=6870b086&hm=5ad62e2f1fa6bb50a2f10ded59dbf2e3f9b72c82942e6a9d0947b11c9413a991&)
+![Server Rules Banner](https://cdn.discordapp.com/attachments/1309624833843400807/1315929687796486214/NSG_ServerRulesBanner.gif?ex=68720206&is=6870b086&hm=5ad62e2f1fa6bb50a2f10ded59dbf2e3f9b72c82942e6a9d0947b11c9413a991&)
 
 To ensure a positive and enjoyable experience for everyone, please follow these guidelines:
 
@@ -54,7 +54,7 @@ Refrain from sharing or seeking out personal information about other members wit
 
 ### Punishments
 
-![Banner](https://media2.giphy.com/media/NdWqAkvvDzDSwm3WBP/giphy.gif?cid=6c09b952el2ue35dyntajr5drg0mfa3gsizgmb6gonpl2r9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+![Punishments Banner](https://media2.giphy.com/media/NdWqAkvvDzDSwm3WBP/giphy.gif?cid=6c09b952el2ue35dyntajr5drg0mfa3gsizgmb6gonpl2r9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
   Failure to comply with server rules will result in severe consequences.
 
