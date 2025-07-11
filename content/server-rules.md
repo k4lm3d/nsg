@@ -1,5 +1,5 @@
 ---
-title: 'Server Guidelines'
+title: 'Server Rules'
 date: 2024-11-15T03:42:51+08:00
 draft: false
 ---
@@ -20,21 +20,21 @@ To ensure a positive and enjoyable experience for everyone, please follow these 
 
   To be able to properly communicate you are not allowed to flood the channels with messages. We ask that you limit the amount of messages you send so that it is easier to read, and for others to participate in the conversation. This does not apply to bot channels.
 
-4.No Sensitive Topics!
+4. No Sensitive Topics!
 
   We want everyone to feel comfortable on our server. As a result, we ask that you abstain from posting photos, links, or information that is inappropriate for minors, as well as refrain from discussing religion or politics. These issues frequently generate a lot of discussion and controversy.
 
-5.No Profane Language
+5. No Profane Language
 
   We ask that you don't swear in our server, or keep it to a minimum.
 
   Profane language that may be homophobic, racist or otherwise hateful will be seen down upon and punished accordingly.
 
-6.No Malicious Content
+6. No Malicious Content
 
   There will be no grabify links, viruses, crash videos, virus links, or token grabbers. These actions will result in an automatic ban.
 
-7.Respect Privacy And Do Not Doxx
+7. Respect Privacy And Do Not Doxx
 
   Avoid sharing sensitive personal information, such as home addresses, phone numbers, or financial details.
 
