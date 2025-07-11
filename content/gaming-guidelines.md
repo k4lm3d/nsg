@@ -5,7 +5,7 @@ draft: false
 description: "Guide to Fair Play and Positive Gaming Experiences"
 ---
 
-![Gaming Guidelines Banner](/gif/gaming-guidelines-banner.gif)
+![Gaming Guidelines Banner](/banners/gaming-guidelines-banner.gif)
 
 These guidelines are designed to ensure a positive and fair gaming experience for all participants.
 
