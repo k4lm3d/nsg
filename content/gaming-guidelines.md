@@ -4,7 +4,9 @@ date: 2024-11-13T16:12:32+08:00
 draft: false
 description: "Guide to Fair Play and Positive Gaming Experiences"
 ---
- 
+
+![Gaming Guidelines Banner](https://cdn.discordapp.com/attachments/1312256851026640946/1325877242651480084/gaming-guidelines-banner.gif?ex=6871f128&is=68709fa8&hm=aec27bebc66b9b8a95a84964e0e88803b3ed2e91c719498b90bb09071a826915&)
+
 These guidelines are designed to ensure a positive and fair gaming experience for all participants.
 
 While specific rules can vary depending on the game and community, here are some core principles to consider:
