@@ -25,15 +25,10 @@
   pageRef = "roles"
   weight = 11
 
-[[main]]
-  name = "Terminologies"
-  pageRef = "terminologies"
-  weight = 12
-
-[[main]]
-  name = "Contributions"
-  pageRef = "contributions"
-  weight = 13
+#[[main]]
+#  name = "Terminologies"
+#  pageRef = "terminologies"
+#  weight = 12
 
 #[[main]]
 #  name = "Parent"
@@ -89,16 +84,16 @@
 #   weight = 20
 
 [[footer]]
-  name = "Community Guidelines"
-  pageRef = "guidelines"
+  name = "Gaming Guidelines"
+  pageRef = "gaming-guidelines"
   weight = 10
 
 [[footer]]
-  name = "Gaming Protocol"
-  pageRef = "protocol"
+  name = "HOP Protocol"
+  pageRef = "hop-protocol"
   weight = 11
 
 [[footer]]
-  name = "H.O.P Protocol"
-  pageRef = "hop"
+  name = "Contributions"
+  pageRef = "contributions"
   weight = 12
