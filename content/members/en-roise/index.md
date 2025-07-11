@@ -4,7 +4,7 @@ title: 'En_Roise'
 # draft: false
 tags: ["CyberCode Online", "Arclight City"]
 # externalUrl: "https://nousagi.onrender.com"
-weight: 01
+weight: 02
 showDate: false
 showAuthor: false
 showReadingTime: false
