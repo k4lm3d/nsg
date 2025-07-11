@@ -6,7 +6,7 @@ description: "H.O.P. Protocol: A Guide for Helping Other Players"
 showDate: true
 ---
 
-![HOP Protocol Banner](https://cdn.discordapp.com/attachments/1312256851026640946/1325885114860699721/hop-protocol.gif?ex=6871f87d&is=6870a6fd&hm=e22cb3e8e088b531a6fd0e807ba89e82feda2b9657b355defd80fed09a110571&)
+![HOP Protocol Banner](gif/hop-protocol.gif)
 
 > *"We love to help other people!"* -krolik
 
