@@ -4,7 +4,7 @@ date: 2024-11-15T03:42:51+08:00
 draft: false
 ---
 
-![Server Rules Banner](/gif/NSG_ServerRulesBanner.gif)
+![Server Rules Banner](/banners/NSG_ServerRulesBanner.gif)
 
 To ensure a positive and enjoyable experience for everyone, please follow these guidelines:
 
@@ -54,7 +54,7 @@ Refrain from sharing or seeking out personal information about other members wit
 
 ### Punishments
 
-![Punishments Banner](/gif/NSGServerPunishmentsBanner.gif)
+![Punishments Banner](/banners/NSGServerPunishmentsBanner.gif)
 
   Failure to comply with server rules will result in severe consequences.
 
