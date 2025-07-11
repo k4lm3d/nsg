@@ -36,6 +36,9 @@ showLikes: false
 showViews: false
 layoutBackgroundHeaderSpace: false
 ---
+
+- Username: <username>
+- Position: <role>
 ```
 
 - Then, add details to `content/members/members.json`
@@ -62,3 +65,7 @@ layoutBackgroundHeaderSpace: false
   }
 ]
 ```
+
+### Request to Add
+
+If you don’t know how to code and don't want to do all these, you can ping me on Nousagi Gang discord server `#support` channel and create a thread requesting for a staff to do these for you.
