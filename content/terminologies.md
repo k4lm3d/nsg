@@ -2,6 +2,8 @@
 title: 'Terminologies'
 date: 2024-11-29T17:12:42+08:00
 draft: false
+layoutBackgroundHeaderSpace: false
+cardViewScreenWidth: false
 ---
 
 ### What is SysOps?
