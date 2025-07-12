@@ -10,3 +10,7 @@ description: ""
 {{< button href="about" target="_self" >}}
 {{< icon "circle-info" >}} &nbsp; Learn more
 {{< /button >}}
+
+<br />
+<br />
+<br />
