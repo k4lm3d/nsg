@@ -25,10 +25,10 @@
   pageRef = "roles"
   weight = 11
 
-#[[main]]
-#  name = "Terminologies"
-#  pageRef = "terminologies"
-#  weight = 12
+[[main]]
+  name = "Leadership"
+  pageRef = "leadership"
+  weight = 12
 
 #[[main]]
 #  name = "Parent"
