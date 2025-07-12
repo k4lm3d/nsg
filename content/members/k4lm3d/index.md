@@ -16,7 +16,7 @@ layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
 showHero: true
 heroStyle: "background"
-featureimage: "img/background-nsg-03.png"
+featureimage: "/img/background-nsg-03.png"
 ---
 
 {{< lead >}}
@@ -49,8 +49,11 @@ featureimage: "img/background-nsg-03.png"
 {{< icon "instagram" >}} Instagram
 {{< /button >}} &nbsp;
 
+___
+
 #### Timeline
 
+&nbsp;
 {{< timeline >}}
 
   {{< timelineItem icon="code" header="CyberCode Online" badge="2021" >}}
@@ -67,4 +70,3 @@ featureimage: "img/background-nsg-03.png"
   {{</ timelineItem >}} -->
 
 {{</ timeline >}}
-
