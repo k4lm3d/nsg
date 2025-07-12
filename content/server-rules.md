@@ -44,7 +44,7 @@ To ensure a positive and enjoyable experience for everyone, please follow these 
 Refrain from sharing or seeking out personal information about other members without their consent. [Doxxing](https://cyberbullying.org/doxing-and-cyberbullying) can have serious consequences.
 
 
-> ***We reserve the right to change/modify or alter the rules at any point. As rules can't cover every scenario, our staff team have been given full permission to punish you based on their assessment of the situation, and you may be be punished as they see fit.***
+> ***We reserve the right to change/modify or alter the rules at any point. As rules can't cover every scenario, our staff team have been given full permission to punish you based on their assessment of the situation, and you may be punished as they see fit.***
 
 ## Reporting Issues
 
@@ -65,3 +65,11 @@ Refrain from sharing or seeking out personal information about other members wit
 - **Neural Network Reset**: Temporarily banned from the server.
 - **Data Purge**: Permanently banned from the server.
 - **Digital Exile**: Severely punished and exiled from the community.
+
+___
+
+##### Official Discord Server
+
+> **`Nousagi Gang HQ`**
+> 
+> *Sorry, but we are not giving out the invite link for our Discord server unless you got invited by one of our members.*
