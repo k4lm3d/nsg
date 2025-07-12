@@ -59,6 +59,8 @@ ___
 
   We reserve the right to take appropriate action against those who violate these rules, including warnings, temporary bans, or permanent bans *(See punishments below)*.
 
+<br />
+
 ### Punishments
 
 ![Punishments Banner](/banners/NSGServerPunishmentsBanner.gif)
@@ -75,5 +77,6 @@ ___
 
 ## Official Discord Server
 
-> **`Nousagi Gang HQ`**
+> [Nousagi Gang HQ](#!)
+> 
 >   *Sorry, but we are not giving out the invite link for our Discord server unless you got invited by one of our members.*
