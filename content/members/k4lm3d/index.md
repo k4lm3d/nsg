@@ -34,7 +34,7 @@ heroStyle: "background"
 - **Age:** `N/A`
 - **Location:** `localhost:3000`
 - **Bio:** `Gamer` `Writer` `Developer`
-- **Position(s):** `Member` `Manager`
+- **Position(s):** `Member` `Techie`
 
 #### Socials
 
@@ -48,22 +48,22 @@ heroStyle: "background"
 {{< icon "instagram" >}} Instagram
 {{< /button >}} &nbsp;
 
-<!-- #### Timeline -->
+#### Timeline
 
-<!-- {{< timeline >}} -->
+{{< timeline >}}
 
-  <!-- {{< timelineItem icon="code" header="CyberCode Online" badge="2021" >}}
-  {{</ timelineItem >}} -->
+  {{< timelineItem icon="code" header="CyberCode Online" badge="2021" >}}
+  {{</ timelineItem >}}
 
-  <!-- {{< timelineItem icon="star" header="Arclight City" badge="2023" >}}
-  {{</ timelineItem >}} -->
+  {{< timelineItem icon="star" header="Arclight City" badge="2023" >}}
+  {{</ timelineItem >}}
 
-  <!-- {{< timelineItem icon="lightbulb" header="Torn" badge="2023" >}}
-  {{</ timelineItem >}} -->
+  {{< timelineItem icon="lightbulb" header="TORN" badge="2023" >}}
+  {{</ timelineItem >}}
 
   <!-- {{< timelineItem icon="code" header="Header" badge="Badge" subheader="Subheader" >}}
     {{< icon "github" >}} Lorem ipsum.
   {{</ timelineItem >}} -->
 
-<!-- {{</ timeline >}} -->
+{{</ timeline >}}
 
