@@ -37,8 +37,13 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-- Username: <username>
-- Position: <role>
+## Info:
+- Username: username
+- Position: role
+- Bio: Gamer Writer Developer
+- Socials:
+    - [Facebook](#!)
+    - [Instagram](#!)
 ```
 
 - Then, add details to `content/members/members.json`
@@ -65,6 +70,10 @@ layoutBackgroundHeaderSpace: false
   }
 ]
 ```
+
+- Finally, send a pull request and wait for it to be approved.
+
+.
 
 ### Request to Add
 
