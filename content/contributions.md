@@ -2,6 +2,8 @@
 title: 'Contributions'
 date: 2024-11-23T04:12:38+08:00
 draft: false
+layoutBackgroundHeaderSpace: false
+cardViewScreenWidth: false
 ---
 
 ## Add New Member
