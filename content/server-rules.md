@@ -53,11 +53,11 @@ ___
 
 ## Reporting Issues
 
-  If you encounter any issues or violations of these guidelines, please report them to a moderator *(SysOps)*.
+  If you encounter any issues or violations of these guidelines, please report them to a moderator. *(See [SysOps](/terminologies))*
 
 ## Enforcement
 
-  We reserve the right to take appropriate action against those who violate these rules, including warnings, temporary bans, or permanent bans *(See punishments below)*.
+  We reserve the right to take appropriate action against those who violate these rules, including warnings, temporary bans, or permanent bans. *(See [punishments](/server-rules#Punishments))*
 
 <br />
 
