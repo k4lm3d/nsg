@@ -2,6 +2,8 @@
 title: 'Gang Leadership'
 date: 2025-07-12T15:33:52+08:00
 draft: false
+layoutBackgroundHeaderSpace: false
+cardViewScreenWidth: false
 ---
 
 ## General
