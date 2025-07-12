@@ -9,13 +9,13 @@ title = "Nousagi Gang"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "favicons/apple-touch-icon.png"
+  logo = "/apple-touch-icon.png"
   # secondaryLogo = "img/logo.png"
-  description = "Gaming Group Website"
+  description = "Nousagi Gang - Gaming Group Website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Nousagi Gang"
+  name = "Nousagi Gang 🇵🇭"
   # email = "username@example.com"
   image = "img/nousagi.png" # "img/avatar.png"
   imageQuality = 96
@@ -30,7 +30,7 @@ title = "Nousagi Gang"
 #     { bluesky = "https://bsky.app/profile/username" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
-#     { discord = "https://discord.gg/invitecode" },
+     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
      { facebook = "https://facebook.com/nousagigangph" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
