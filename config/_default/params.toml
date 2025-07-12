@@ -21,7 +21,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/banner.jpg" # used as default for background images
+defaultBackgroundImage = "img/background-nsg-02.png" # used as default for background images
 defaultFeaturedImage = "img/banner.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -60,7 +60,7 @@ smartTOCHideUnfocusedChildren = true
   showDateUpdated = false
   showAuthor = false
   # showAuthorBottom = false
-  showHero = true
+  showHero = false
   heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -84,7 +84,7 @@ smartTOCHideUnfocusedChildren = true
   showZenMode = false
 
 [list]
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -105,7 +105,7 @@ smartTOCHideUnfocusedChildren = true
 
 [taxonomy]
   showTermCount = true
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
@@ -114,7 +114,7 @@ smartTOCHideUnfocusedChildren = true
   cardView = false
 
 [term]
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
