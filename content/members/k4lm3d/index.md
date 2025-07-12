@@ -14,9 +14,9 @@ showLikes: false
 showViews: false
 layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
-showHero: false
+showHero: true
 heroStyle: "background"
-featureimage: "background.png"
+featureimage: "img/background-nsg-03.png"
 ---
 
 {{< lead >}}
