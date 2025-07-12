@@ -7,7 +7,7 @@
 
 colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 enableSearch = false
 enableCodeCopy = false
@@ -38,7 +38,7 @@ smartTOCHideUnfocusedChildren = true
   showMenu = true
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
