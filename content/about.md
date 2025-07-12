@@ -31,3 +31,7 @@ Let's build a strong and vibrant Filipino gaming community together! 💪
 &mdash;Nousagi Gang
 
 ![Nousagi banner](/banners/nousagi_.gif)
+
+{{< article link="/gaming-guidelines" >}}
+
+{{< article link="/hop-protocol" >}}
