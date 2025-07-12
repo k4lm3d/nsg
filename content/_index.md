@@ -11,5 +11,6 @@ description: ""
 {{< icon "circle-info" >}} &nbsp; Learn more
 {{< /button >}}
 
-<br>
+<br />
+
 ![Nousagi PH banner](/banners/feature.jpg)
