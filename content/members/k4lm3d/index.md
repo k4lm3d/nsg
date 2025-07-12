@@ -16,6 +16,7 @@ layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
 showHero: false
 heroStyle: "background"
+featureimage: "background.png"
 ---
 
 {{< lead >}}
