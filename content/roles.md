@@ -2,6 +2,8 @@
 title: 'Gang Roles'
 date: 2025-07-11T18:43:52+08:00
 draft: false
+layoutBackgroundHeaderSpace: false
+cardViewScreenWidth: false
 ---
 
 ## Rank Roles
