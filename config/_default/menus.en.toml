@@ -16,19 +16,24 @@
 #  weight = 10
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 11
+
+[[main]]
   name = "Members"
   pageRef = "members"
-  weight = 11
+  weight = 12
 
 [[main]]
   name = "Roles"
   pageRef = "roles"
-  weight = 11
+  weight = 13
 
 [[main]]
   name = "Leadership"
   pageRef = "leadership"
-  weight = 12
+  weight = 14
 
 #[[main]]
 #  name = "Parent"
