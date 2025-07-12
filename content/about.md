@@ -2,6 +2,8 @@
 title: 'About'
 # date: 2025-07-12T22:48:38+08:00
 draft: false
+layoutBackgroundHeaderSpace: false
+cardViewScreenWidth: false
 ---
 
 **Nousagi Gang** is a Filipino gaming collective, united by our passion for gaming. We enjoy playing together and sharing our experiences.
