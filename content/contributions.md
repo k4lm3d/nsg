@@ -7,6 +7,9 @@ draft: false
 ## Add New Member
 
 - Fork [this](https://github.commm/k4lm3d/nsg) repository
+
+{{< github repo="k4lm3d/nsg" showThumbnail=true >}}
+
 - Create a new folder with `username` inside of `content/members` and create a new `index.md` file or use this command on the terminal: `hugo new content members/username/index.md`
 
 ```shell
