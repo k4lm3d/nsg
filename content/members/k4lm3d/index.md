@@ -16,7 +16,7 @@ layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
 showHero: true
 heroStyle: "background"
-featureimage: "/img/background-nsg-03.png"
+# featureimage: "background.png"
 ---
 
 {{< lead >}}
