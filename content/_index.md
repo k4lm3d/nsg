@@ -10,7 +10,3 @@ description: ""
 {{< button href="about" target="_self" >}}
 {{< icon "circle-info" >}} &nbsp; Learn more
 {{< /button >}}
-
-<br />
-
-![Nousagi PH banner](/banners/feature.jpg)
