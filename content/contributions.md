@@ -6,13 +6,13 @@ layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
 
-## Add New Member
+## Add New/Update Member Profile
 
-- Fork [this](https://github.commm/k4lm3d/nsg) repository
+- Fork [this](https://github.commm/k4lm3d/nsg) repository. *(If you've already forked it, ignore this step.)*
 
 {{< github repo="k4lm3d/nsg" showThumbnail=true >}}
 
-- Create a new folder with `username` inside of `content/members` and create a new `index.md` file or use this command on the terminal: `hugo new content members/username/index.md`
+- Create a new folder with `username` inside of `content/members` and create a new `index.md` file, or use this command on the terminal: `hugo new content members/username/index.md`. *(If you already have a member profile page, ignore this step.)*
 
 ```shell
 # File Structure
@@ -51,7 +51,7 @@ layoutBackgroundHeaderSpace: false
     - [Instagram](#!)
 ```
 
-- Then, add details to `content/members/members.json`
+- Then, add/update details to `content/members/members.json`
 
 ```json
 # ./content/members/members.json
@@ -80,6 +80,6 @@ layoutBackgroundHeaderSpace: false
 
 .
 
-### Request to Add
+### Request to Add/Update Member Profile
 
-If you don’t know how to code and don't want to do all these, you can ping me on Nousagi Gang discord server `#support` channel and create a thread requesting for a staff to do these for you.
+If you don’t know how to code and don't want to do all these, you can ping **`@Techie`** on Nousagi Gang discord server's `#support` channel with your request message; or create a thread with the title `Member Profile Request` including your request message, and wait for a staff to do these for you.
