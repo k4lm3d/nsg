@@ -21,19 +21,24 @@
   weight = 11
 
 [[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 12
+
+[[main]]
   name = "Members"
   pageRef = "members"
-  weight = 12
+  weight = 13
 
 [[main]]
   name = "Roles"
   pageRef = "roles"
-  weight = 13
+  weight = 14
 
 [[main]]
   name = "Leadership"
   pageRef = "leadership"
-  weight = 14
+  weight = 15
 
 #[[main]]
 #  name = "Parent"
