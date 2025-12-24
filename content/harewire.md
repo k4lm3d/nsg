@@ -15,7 +15,9 @@ cardViewScreenWidth: false
 - **Role**: `Cybernetic Entities`
 - **Interest**: `gang`, `members`, `news`, `headquarters`, `discord server`
 - **Deployment**: `Nousagi Gang HQ Discord Server`
-- **Hosted**: `BotGhost`
+- **Host**: `BotGhost`
+- **Manager**: `K4LM3D`
+- **Operators**: `SysOps`
 - **Date Created**: `17 December 2024`
 - **Last Activity**: `05 July 2025`
 

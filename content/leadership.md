@@ -29,5 +29,5 @@ cardViewScreenWidth: false
 ### Other
 
 - **Founder** : [Skae_19](#!)
-- **Cybernetic Entities** : [Harewire](https://kalmed.localplayer.dev/harewire) 
+- **Cybernetic Entities** : [Harewire](/harewire) 
 - **Lab Rats** : [Daqins](https://github.com/daqinsystem)
