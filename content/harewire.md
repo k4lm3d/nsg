@@ -19,17 +19,14 @@ cardViewScreenWidth: false
 - **Date Created**: `17 December 2024`
 - **Last Activity**: `05 July 2025`
 
-## About
+## Description
 
-```txt
-Harewire is a Discord bot for Nousagi Gang's Discord server. It has an internal alert system used by the gang's SysOps. When activated, it instantly delivers urgent messages to all gang members across the server.
-```
+**Harewire** is a *Discord* bot for Nousagi Gang's *Discord* server. It has an internal alert system used by the gang's **SysOps**. When activated, it instantly delivers urgent messages to all gang members across the server.
 
-## Functions.md
+### Functions
 - 🔔 To alert the gang about critical information
 - 📩 To direct message gang members
 - 💼 To store data about Nousagi Gang
-<!-- - 🧵 To host and maintain a website and a private server-->
 - 📄 To document happenings about the gang by writing logs
 
 ## Updates
