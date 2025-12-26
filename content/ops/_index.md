@@ -4,7 +4,7 @@ title: 'Gang Operations'
 draft: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
-showBreadcrumbs: false
+groupByYear: true
 ---
 
 *Gang's official operations found here.*
