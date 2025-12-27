@@ -83,3 +83,14 @@ layoutBackgroundHeaderSpace: false
 ### Request to Add/Update Member Profile
 
 If you don’t know how to code and don't want to do all these, you can ping **`@Techie`** on Nousagi Gang discord server's `#support` channel with your request message; or create a thread with the title `Member Profile Request` including your request message, and wait for a staff to do these for you.
+
+___
+
+#### Spacial thanks to:
+
+- [Hugo](https://gohugo.io/)
+- [Blowfish](https://blowfish.page/) by [Nuno Coraco](https://github.com/nunocoracao)
+- [GitHub](https://github.com/)
+- [Render.com](https://render.com/)
+- [OpenDomains](https://open-domains.net/)
+- and to all the developers who made this possibly all-free 🧡

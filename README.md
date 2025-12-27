@@ -43,10 +43,10 @@
 
 #### Custom domains
 
-  - Default subdomain: [nousagi.onrender.com](https://nousagi.onrender.com)
-  - Primary domain: [onrender.com](https://onrender.com)
+  - Default subdomain: [nousagi.onrender.com](https://nousagi.onrender.com) *([Render.com](https://render.com/))*
+  - Primary domain: [nsg.is-local.org](https://nsg.is-local.org/) *([Open-Domains.net](https://open-domains.net/))*
   - Redirects automatically to primary domain: `false`
-  - Domain alias: `nousagi`
+  - Domain alias: `nousagi`, `nsg`
 
 ### Resources
 
@@ -54,3 +54,4 @@
   - [Blowfish Docs](https://blowfish.page/docs)
   - [GitHub Docs](https://docs.github.com/)
   - [Render Docs](https://docs.render.com/)
+  - [OpenDomains Register Repository](https://github.com/open-domains/Register)
