@@ -15,10 +15,7 @@ tags: ["Territory Control", "Aqua Vistan District", "community events", "Arcligh
 - 📍 Location: `Aqua Vista District, ALC`
 
 ### Command:
-Grab your `Gang Control Resources` (GCRs) out of your `backpacks` and `vaults`! And get ready to take control over the **Aqua Vista District** territory starting this Saturday 
-
-Come online and join us!  Your participation is very much appreciated 🌸 
-Remember that team work makes the dream work 💪 
+Prepare your 📦 `Gang Control Resources` and join us control a territory @ `Arclight City`!
 
 ## Result: **SUCCESS**
 Message from `En_Roise`:
