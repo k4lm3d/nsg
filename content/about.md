@@ -39,7 +39,7 @@ Let's build a strong and vibrant Filipino gaming community together! 💪
 {{< article link="/hop-protocol" >}}
 
 
-{{< button href="contact" target="_self" >}}
+{{< button href="/contact" target="_self" >}}
 {{< icon "circle-info" >}} &nbsp; Contact Us
 {{< /button >}}
 
