@@ -1,0 +1,14 @@
+# Redirects
+  # https://nousagi.onrender.com
+  # https://nsg.is-local.org
+
+# Internal
+
+/kal               /members/k4lm3d/
+/chief             /members/chief-marauder/
+/en                /members/en-roise/
+
+# External
+
+/facebook          https://facebook.com/nousagigangph
+/repo              https://github.com/k4lm3d/nsg
