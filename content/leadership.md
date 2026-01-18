@@ -31,3 +31,9 @@ cardViewScreenWidth: false
 - **Founder** : [Skae_19](#!)
 - **Cybernetic Entities** : [Harewire](/harewire) 
 - **Lab Rats** : [Daqins](https://github.com/daqinsystem)
+
+_ _
+
+{{< button href="/roles" target="_self" >}}
+{{< icon "circle-info" >}} &nbsp; View all the Roles
+{{< /button >}}
