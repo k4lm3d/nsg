@@ -26,7 +26,7 @@ Here's what we offer:
 
 - 🫴 **A relaxed and friendly environment:** Come hang out, chat, and enjoy the company of fellow Filipino gamers. 
 
-*Anyone is welcome to join, regardless of age, as long as they follow our rules, [guidelines](/gaming-guidelines), and [protocols](/hop-protocol).*
+*Anyone is welcome to join, regardless of age, as long as they follow our [rules](/server-rules), [guidelines](/gaming-guidelines), and [protocols](/hop-protocol).*
 
 Let's build a strong and vibrant Filipino gaming community together! 💪
 
@@ -34,10 +34,11 @@ Let's build a strong and vibrant Filipino gaming community together! 💪
 
 ![Nousagi banner](/banners/nousagi_.gif)
 
-{{< article link="/gaming-guidelines" >}}
+{{< article link="/gaming-guidelines/" >}}
 
-{{< article link="/hop-protocol" >}}
+{{< article link="/hop-protocol/" >}}
 
+{{< article link="/server-rules/" >}}
 
 {{< button href="/contact" target="_self" >}}
 {{< icon "circle-info" >}} &nbsp; Contact Us
