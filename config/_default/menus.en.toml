@@ -11,67 +11,77 @@
 # ordered by weight from lowest to highest.
 
 #[[main]]
-#  name = "News"
-#  pageRef = "news"
+#  name = "Post"
+#  pageRef = "posts"
 #  weight = 10
-
-#[[main]]
-#  name = "About"
-#  pageRef = "about"
-#  weight = 11
-
-[[main]]
-  name = "Members"
-  pageRef = "members"
-  weight = 12
-
-[[main]]
-  name = "Leadership"
-  pageRef = "leadership"
-  weight = 13
-
-[[main]]
-  name = "Operations"
-  pageRef = "ops"
-  weight = 14
 
 [[main]]
   name = "About"
-  weight = 40
+  weight = 10
 
 [[main]]
   name = "About Us"
   parent = "About"
   pageRef = "about"
-  weight = 41
+  weight = 11
 
 [[main]]
   name = "Harewire"
   parent = "About"
   pageRef = "harewire"
-  weight = 42
+  weight = 12
+
+[[main]]
+  name = "Terminologies"
+  parent = "About"
+  pageRef = "terminologies"
+  weight = 13
 
 [[main]]
   name = "Contact Us"
   parent = "About"
   pageRef = "harewire"
-  weight = 43
+  weight = 14
+
 
 [[main]]
-  name = "Updates"
-  weight = 50
+  name = "News"
+  weight = 20
 
 [[main]]
   name = "Gang News"
   parent = "Updates"
   pageRef = "news"
-  weight = 51
+  weight = 21
 
 [[main]]
   name = "Operations"
   parent = "Updates"
   pageRef = "ops"
-  weight = 52
+  weight = 22
+
+
+[[main]]
+  name = "Members"
+  weight = 30
+
+[[main]]
+  name = "Gang Members"
+  parent = "Members"
+  pageRef = "members"
+  weight = 31
+
+[[main]]
+  name = "Leadership"
+  parent = "Members"
+  pageRef = "leadership"
+  weight = 32
+
+[[main]]
+  name = "Roles"
+  parent = "Members"
+  pageRef = "roles"
+  weight = 33
 
 #[[main]]
 #  name = "Parent"
