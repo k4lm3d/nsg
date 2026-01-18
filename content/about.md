@@ -34,10 +34,8 @@ Let's build a strong and vibrant Filipino gaming community together! 💪
 
 ![Nousagi banner](/banners/nousagi_.gif)
 
-_ _
+<br>
 
 {{< button href="/contact" target="_self" >}}
 {{< icon "circle-info" >}} &nbsp; Contact Us
 {{< /button >}}
-
-_ _
