@@ -35,5 +35,5 @@ cardViewScreenWidth: false
 <br>
 
 {{< button href="/roles" target="_self" >}}
-{{< icon "circle-info" >}} &nbsp; View all the Roles
+{{< icon "circle-info" >}} &nbsp; View All Roles
 {{< /button >}}
