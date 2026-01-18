@@ -120,6 +120,11 @@
 #  pageRef = "tags"
 #  weight = 30
 
+[[main]]
+  pre = "facebook"
+  title = "Facebook"
+  url = "https://facebook.com/nousagigangph"
+  weight = 50
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
