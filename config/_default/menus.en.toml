@@ -50,13 +50,13 @@
 
 [[main]]
   name = "Gang News"
-  parent = "Updates"
+  parent = "News"
   pageRef = "news"
   weight = 21
 
 [[main]]
   name = "Operations"
-  parent = "Updates"
+  parent = "News"
   pageRef = "ops"
   weight = 22
 
