@@ -4,6 +4,7 @@ date: 2024-11-23T04:12:38+08:00
 draft: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
+showTableOfContents: true
 ---
 
 ## Add New/Update Member Profile
@@ -80,13 +81,13 @@ layoutBackgroundHeaderSpace: false
 
 .
 
-### Request to Add/Update Member Profile
+## Request to Add/Update Member Profile
 
-If you don’t know how to code and don't want to do all these, you can ping **`@Techie`** on Nousagi Gang discord server's `#support` channel with your request message; or create a thread with the title `Member Profile Request` including your request message, and wait for a staff to do these for you.
+If you don’t know how to code and don't want to do all these, you can ping **`@Techie`** on Nousagi Gang HQ discord server's `#support` channel with your request message or create a thread with the title `Member Profile Request` including your request message, and wait for a staff to do these for you.
 
 ___
 
-#### Spacial thanks to:
+## Spacial thanks to:
 
 - [Hugo](https://gohugo.io/)
 - [Blowfish](https://blowfish.page/) by [Nuno Coraco](https://github.com/nunocoracao)
