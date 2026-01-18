@@ -10,51 +10,84 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "News"
-  pageRef = "news"
-  weight = 10
+#[[main]]
+#  name = "News"
+#  pageRef = "news"
+#  weight = 10
 
-[[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 11
-
-[[main]]
-  name = "Contact"
-  pageRef = "contact"
-  weight = 12
+#[[main]]
+#  name = "About"
+#  pageRef = "about"
+#  weight = 11
 
 [[main]]
   name = "Members"
   pageRef = "members"
-  weight = 13
-
-[[main]]
-  name = "Roles"
-  pageRef = "roles"
-  weight = 14
+  weight = 12
 
 [[main]]
   name = "Leadership"
   pageRef = "leadership"
-  weight = 15
+  weight = 13
+
+[[main]]
+  name = "Operations"
+  pageRef = "ops"
+  weight = 14
+
+[[main]]
+  name = "About"
+  weight = 40
+
+[[main]]
+  name = "About Us"
+  parent = "About"
+  pageRef = "about"
+  weight = 41
+
+[[main]]
+  name = "Harewire"
+  parent = "About"
+  pageRef = "harewire"
+  weight = 42
+
+[[main]]
+  name = "Contact Us"
+  parent = "About"
+  pageRef = "harewire"
+  weight = 43
+
+[[main]]
+  name = "Updates"
+  weight = 50
+
+[[main]]
+  name = "Gang News"
+  parent = "Updates"
+  pageRef = "news"
+  weight = 51
+
+[[main]]
+  name = "Operations"
+  parent = "Updates"
+  pageRef = "ops"
+  weight = 52
 
 #[[main]]
 #  name = "Parent"
-#  weight = 20
+#  weight = 50
 
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
 #  pageRef = "posts"
-#  weight = 20
+#  weight = 51
 
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"
 #  pageRef = "posts"
-#  weight = 20
+#  weight = 52
 
 #[[subnavigation]]
 #  name = "An interesting topic"
