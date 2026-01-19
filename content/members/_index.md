@@ -9,4 +9,9 @@ showReadingTime: false
 showEdit: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
+cascade:
+  showEdit: false
+  showSummary: false
+  hideFeatureImage: false
+  invertPagination: true
 ---
