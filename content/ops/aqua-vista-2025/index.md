@@ -9,14 +9,16 @@ showBreadcrumbs: true
 tags: ["Territory Control", "Aqua Vistan District", "community events", "Arclight City"]
 ---
 
+![Featured image of NSG's territory control](Featured_Arclight_City_2025-01-04(Aqua_Vista).jpg "[NSG] controlled Aqua Vista District's territory (January 2025)")
+
 ## Details:
 - 🔖 Type: `Territory Control`
-- 🗓️ Duration: `January 04 - 11, 2025`
+- 🗓️ Duration: `2025 January 04 - 11`
 - 📍 Location: `Aqua Vista District, ALC`
 
 ### Command:
-Prepare your 📦 `Gang Control Resources` and join us control a territory @ `Arclight City`!
+Prepare your 📦 `Gang Control Resources` and join us control a territory @ [Arclight City](https://arclightcity.net)!
 
 ## Result: **SUCCESS**
-Message from `En_Roise`:
+Message from [En_Roise](/members/en-roise):
 > Congrats NSG-ALC we now control Aqua Vista District and all of its Strongholds!
