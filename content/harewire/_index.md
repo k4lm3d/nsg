@@ -1,9 +1,12 @@
 ---
 title: 'Harewire (Bot)'
-# date: 2025-12-25T00:40:45+08:00
+date: 2025-12-25T00:40:45+08:00
 draft: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
+showCards: false
+cardView: false
+groupByYear: false
 tags: ["Cybernetic Entities"]
 ---
 
@@ -23,3 +26,4 @@ tags: ["Cybernetic Entities"]
 - 📄 To document happenings about the gang by writing logs
 
 ___
+
