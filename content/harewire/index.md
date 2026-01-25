@@ -13,9 +13,9 @@ cardViewScreenWidth: false
 - Name: **Harewire**
 - Type: [Discord](https://discord.com) **Bot**
 - Host: [BotGhost](https://botghost.com)
-- Owner: [K4LM3D](/members/k4lm3d)
+- Owner: [K4LM3D](/members/k4lm3d) **of Nousagi Gang**
 - Date Created: **17 December 2024** <!-- - Last Activity: ?? -->
-- Description: **Nousagi Gang's Discord server community bot.**
+- Description: **Nousagi Gang's Discord bot.**
 
 ## Privacy Policy
 
