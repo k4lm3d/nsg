@@ -8,6 +8,7 @@ layoutBackgroundBlur: true
 showDate: true
 showDateOnlyInArticle: true
 showDateUpdated: true
+featureimage: "/harewire/harewire.png"
 ---
 
 ![Harewire banner](/harewire/harewire.gif)
