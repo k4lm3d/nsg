@@ -16,7 +16,7 @@ ___
 
 ## Privacy Policy
 
-**Scope**: This policy applies to all Discord servers where the Harewire bot is installed.
+**Scope**: This policy applies to all [Discord](https://discord.com) servers where the Harewire bot is installed.
 
 1. **Data Collection**
 
@@ -28,11 +28,11 @@ ___
 
 2. **Data Storage & Third Parties**
 
-  Harewire is built using BotGhost. Therefore, all data is stored and processed on BotGhost’s secure servers and through the Discord API. We do not use any external databases or sell data to third parties.
+  Harewire is built using [BotGhost](https://botghost.com). Therefore, all data is stored and processed on BotGhost’s secure servers and through the Discord API. We do not use any external databases or sell data to third parties.
 
 3. **Sole Management**
 
-  The bot is owned and managed exclusively by K4LM3D. No other server administrators have access to the bot’s internal data or BotGhost configuration.
+  The bot is owned and managed exclusively by [K4LM3D](/members/k4lm3d). No other server administrators have access to the bot’s internal data or BotGhost configuration.
 
 4. **Data Deletion**
 
