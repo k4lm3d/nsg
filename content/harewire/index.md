@@ -6,7 +6,7 @@ layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
 
-![Nousagi Gang banner](/images/nousagi-gang-banner.gif)
+![Nousagi Gang banner](harewire.gif)
 
 ## Information
 
