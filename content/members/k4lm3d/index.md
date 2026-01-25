@@ -1,9 +1,9 @@
 ---
-title: 'K4LM3D'
+title: K4LM3D
 # date: 2024-11-23T03:56:26+08:00
 # draft: false
 tags: ["CyberCode Online", "Arclight City"]
-description: "Time is precious. Waste it wisely. -K.B."
+description: "Get to know K4LM3D of Nousagi Gang"
 # externalUrl: "https://kalmed.localplayer.dev"
 weight: 04
 showDate: false
@@ -27,7 +27,7 @@ heroStyle: "background"
 
 #### Info
 
-<img src="feature.png" width="250">
+<img src="/members/k4lm3d/feature.png" width="250">
 
 - **Username:** `K4LM3D`
 - **Nickname:** `Kal`
@@ -42,8 +42,8 @@ heroStyle: "background"
 {{< button href="https://kalmed.localplayer.dev" target="_blank" >}}
 {{< icon "globe" >}} Website
 {{< /button >}} &nbsp;
-{{< button href="https://github.com/k4lm3d" target="_blank" >}}
-{{< icon "github" >}} GitHub
+{{< button href="https://facebook.com/k4lm3dgg" target="_blank" >}}
+{{< icon "facebook" >}} Facebook
 {{< /button >}} &nbsp;
 {{< button href="https://www.instagram.com/k4lm3d" target="_blank" >}}
 {{< icon "instagram" >}} Instagram
