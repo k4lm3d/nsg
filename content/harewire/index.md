@@ -1,21 +1,18 @@
 ---
-title: 'Harewire (Bot)'
+title: 'Harewire (Discord Bot)'
 date: 2026-01-25T23:58:45+08:00
 draft: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
 
-![Nousagi Gang banner](harewire.gif)
+![Harewire banner](harewire.gif)
 
-## Information
+**Nousagi Gang's Discord bot.**
 
-- Name: **Harewire**
-- Type: [Discord](https://discord.com) **Bot**
-- Host: [BotGhost](https://botghost.com)
-- Owner: [K4LM3D](/members/k4lm3d) **of Nousagi Gang**
-- Date Created: **17 December 2024** <!-- - Last Activity: ?? -->
-- Description: **Nousagi Gang's Discord bot.**
+*Date created: 17 December 2024*
+
+___
 
 ## Privacy Policy
 
