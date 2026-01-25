@@ -1,12 +1,12 @@
 ---
-title: 'Harewire Bot: Terms of Service'
+title: "Harewire's Terms of Service"
 date: 2026-01-26T04:06:45+08:00
 draft: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
 
-![Harewire banner](harewire.gif)
+![Harewire banner](/harewire/harewire.gif)
 
 By using **Harewire**, you agree to these terms and the official [Discord Terms of Service](https://discord.com/terms).
 
