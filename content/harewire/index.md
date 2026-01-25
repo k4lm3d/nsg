@@ -27,7 +27,7 @@ cardViewScreenWidth: false
 
   - User IDs and Usernames: *To identify users for commands and roles.*
   - Server IDs: *To store settings specific to each sserver.*
-  - Interaction Data:* Temporary logs of commands used to ensure the bot is working correctly.*
+  - Interaction Data: *Temporary logs of commands used to ensure the bot is working correctly.*
 
 2. **Data Storage & Third Parties**
 
