@@ -1,12 +1,12 @@
 ---
-title: 'Harewire Bot: Privacy Policy'
+title: "Harewire's Privacy Policy"
 date: 2026-01-25T23:58:45+08:00
 draft: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
 
-![Harewire banner](harewire.gif)
+![Harewire banner](/harewire/harewire.gif)
 
 This policy applies to all [Discord](https://discord.com) servers where the **Harewire bot** is installed.
 
