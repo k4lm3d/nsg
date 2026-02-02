@@ -14,7 +14,7 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-<img src="feature.jpg" width="250">
+<img src="Chief_Marauder.jpg" width="250">
 
 - Username: Chief_Marauder
 - Position: Fixer
