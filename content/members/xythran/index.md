@@ -17,5 +17,5 @@ layoutBackgroundHeaderSpace: false
 <img src="Xythran.png" width="250">
 
 - **Username:** `Xythran`
-- **Position:** `Runner`
+- **Role:** `Runner`
 - **Gender:** `Male`
