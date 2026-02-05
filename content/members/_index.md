@@ -9,7 +9,7 @@ showReadingTime: false
 showEdit: false
 layoutBackgroundHeaderSpace: false
 cardView: true
-cardViewScreenWidth: false
+cardViewScreenWidth: true
 cascade:
   showEdit: false
   showSummary: false
