@@ -4,7 +4,7 @@ title: 'Xythran'
 # draft: false
 tags: ["CyberCode Online", "Arclight City", "Torn"]
 # externalUrl: "https://nousagi.onrender.com"
-weight: 05
+weight: 4
 showDate: false
 showAuthor: false
 showReadingTime: false
