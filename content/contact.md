@@ -9,9 +9,9 @@ cardViewScreenWidth: false
 ![Nousagi Gang banner](/banners/standard.gif)
 
 ## In-Game:
-Send **`En_Roise`** a direct message *(CCO & ALC)*
+Send `En_Roise` or `Xythran` a direct message *(CCO & ALC)*
 
 ## Social Media:
 Facebook: Send our [Facebook page](https://www.facebook.com/nousagigangph) a message
 
-{{< article link="/members/en-roise" >}}
+<!-- {{< article link="/members/en_roise" >}} -->
