@@ -5,7 +5,7 @@ title: K4LM3D
 tags: ["CyberCode Online", "Arclight City", "Torn"]
 description: "Get to know K4LM3D of Nousagi Gang"
 # externalUrl: "https://kalmed.localplayer.dev"
-weight: 04
+weight: 3
 showDate: false
 showAuthor: false
 showReadingTime: false
