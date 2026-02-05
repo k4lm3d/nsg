@@ -2,7 +2,7 @@
 title: 'Chief_Marauder'
 # date: 2025-07-11T19:13:59+08:00
 # draft: false
-tags: ["CyberCode Online", "Arclight City"]
+tags: ["CyberCode Online", "Arclight City", "Torn"]
 # externalUrl: "https://nousagi.onrender.com"
 weight: 03
 showDate: false
@@ -16,5 +16,17 @@ layoutBackgroundHeaderSpace: false
 
 <img src="Chief_Marauder.jpg" width="250">
 
-- Username: Chief_Marauder
-- Position: Fixer
+- Username: `Chief_Marauder`
+- Role: `Fixer`
+
+#### Socials
+
+{{< button href="https://twitch.tv/ch1efmarauder" target="_blank" >}}
+{{< icon "twitch" >}} Twitch
+{{< /button >}} &nbsp;
+{{< button href="https://youtube.com/@chiefmarauder" target="_blank" >}}
+{{< icon "youtube" >}} YouTube
+{{< /button >}} &nbsp;
+{{< button href="https://www.tiktok.com/@chiefmarauder" target="_blank" >}}
+{{< icon "tiktok" >}} TikTok
+{{< /button >}} &nbsp;
