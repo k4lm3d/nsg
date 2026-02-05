@@ -27,7 +27,7 @@ heroStyle: "background"
 
 #### Info
 
-<img src="/members/k4lm3d/feature.png" width="250">
+<img src="K4LM3D.png" width="250">
 
 - **Username:** `K4LM3D`
 - **Nickname:** `Kal`
