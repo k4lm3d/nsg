@@ -32,10 +32,9 @@ heroStyle: "background"
 - **Username:** `K4LM3D`
 - **Nickname:** `Kal`
 - **Gender:** `Female`
-- **Age:** `N/A`
 - **Location:** `localhost:3000`
 - **Bio:** `Gamer` `Writer` `Developer`
-- **Position(s):** `Member` `Techie`
+- **Role:** `Techie`
 
 #### Socials
 
