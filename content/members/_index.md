@@ -8,6 +8,7 @@ showAuthor: false
 showReadingTime: false
 showEdit: false
 layoutBackgroundHeaderSpace: false
+cardView: true
 cardViewScreenWidth: false
 cascade:
   showEdit: false
