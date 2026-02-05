@@ -16,5 +16,5 @@ layoutBackgroundHeaderSpace: false
 
 <!-- <img src="feature.jpg" width="250"> -->
 
-- Username: En_Roise
-- Position: Boss
+- **Username:** `En_Roise`
+- **Role:** `Boss`
