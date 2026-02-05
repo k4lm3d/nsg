@@ -4,7 +4,7 @@ title: 'En_Roise'
 # draft: false
 tags: ["CyberCode Online", "Arclight City"]
 # externalUrl: "https://nousagi.onrender.com"
-weight: 02
+weight: 1
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -14,7 +14,7 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-<img src="feature.jpg" width="250">
+<!-- <img src="feature.jpg" width="250"> -->
 
 - Username: En_Roise
 - Position: Boss
