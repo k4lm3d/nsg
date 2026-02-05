@@ -13,7 +13,7 @@ cascade:
   showEdit: false
   showSummary: false
   hideFeatureImage: false
-  invertPagination: false
+  invertPagination: true
 ---
 
 > ​[LOG_FILE: EVOLUTION_OF_A_CREW]
