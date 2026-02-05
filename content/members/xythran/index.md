@@ -14,7 +14,7 @@ showViews: false
 layoutBackgroundHeaderSpace: false
 ---
 
-<img src="feature.jpg" width="250">
+<img src="Xythran.png" width="250">
 
 - Username: Xythran
 - Position: Runner
