@@ -9,11 +9,11 @@ showTableOfContents: true
 
 ## Add New/Update Member Profile
 
-- Fork [this](https://github.commm/k4lm3d/nsg) repository. *(If you've already forked it, ignore this step.)*
+- Fork [this](https://github.com/k4lm3d/nsg) repository. *(If you've already forked it, ignore this step.)*
 
 {{< github repo="k4lm3d/nsg" showThumbnail=true >}}
 
-- Create a new folder with `username` inside of `content/members` and create a new `index.md` file, or use this command on the terminal: `hugo new content members/username/index.md`. *(If you already have a member profile page, ignore this step.)*
+- Create a new folder with `username` inside of `content/members` *(Replace 'username' with your username')* and create a new `index.md` file, or use this command on the terminal: `hugo new content members/username/index.md`. *(If you already have a member profile page, ignore this step.)*
 
 ```shell
 # File Structure
@@ -87,11 +87,13 @@ If you don’t know how to code and don't want to do all these, you can ping **`
 
 ___
 
-## Spacial thanks to:
+## Spacial thanks to the following:
 
 - [Hugo](https://gohugo.io/)
 - [Blowfish](https://blowfish.page/) by [Nuno Coraco](https://github.com/nunocoracao)
 - [GitHub](https://github.com/)
 - [Render.com](https://render.com/)
 - [OpenDomains](https://open-domains.net/)
-- and to all the developers who made this possibly all-free 🧡
+- [Auto.Creative.co](https://auto.creavite.co/)
+- [Google Gemini](https://gemini.google.com/)
+- and to all the developers who made this website possibly all-free 🧡
