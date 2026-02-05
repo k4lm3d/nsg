@@ -4,7 +4,7 @@ title: 'Chief_Marauder'
 # draft: false
 tags: ["CyberCode Online", "Arclight City", "Torn"]
 # externalUrl: "https://nousagi.onrender.com"
-weight: 03
+weight: 2
 showDate: false
 showAuthor: false
 showReadingTime: false
