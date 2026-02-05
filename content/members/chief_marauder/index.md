@@ -16,8 +16,9 @@ layoutBackgroundHeaderSpace: false
 
 <img src="Chief_Marauder.jpg" width="250">
 
-- Username: `Chief_Marauder`
-- Role: `Fixer`
+- **Username:** `Chief_Marauder`
+- **Role:** `Fixer`
+- **Gender:** `Male`
 
 #### Socials
 
