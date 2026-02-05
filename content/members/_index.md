@@ -9,12 +9,12 @@ showReadingTime: false
 showEdit: false
 layoutBackgroundHeaderSpace: false
 cardView: true
-cardViewScreenWidth: true
+cardViewScreenWidth: false
 cascade:
   showEdit: false
   showSummary: false
   hideFeatureImage: false
-  invertPagination: true
+  invertPagination: false
 ---
 
 > ​*Forged in the scrap-heaps and uploaded to the sprawl, **Nousagi Gang** is a collective that evolved from raw nodes into a high-spec unit. We’ve traded the deep-code grind for sector citizenship, moving our signal from the scrap-yards to the neon-drenched streets. We don't just occupy the city; we’re the glitch that rewrites it.*
