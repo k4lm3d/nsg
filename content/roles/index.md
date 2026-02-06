@@ -15,7 +15,7 @@ cardViewScreenWidth: false
 - **Fixer** - Gang councilor
 - **Techie** - Technical support
 - **Runner** - Executes events
-- **Enforce** - Enforces rules
+- **Enforcer** - Enforces rules
 
 [MEMBER] (GENERAL)
 - **Muscle** - Enforcer-in-training
