@@ -13,17 +13,17 @@ cardViewScreenWidth: false
 - **Fixer** : [Chief_Marauder](/members/chief_marauder)
 - **Techie** : [K4LM3D](/members/k4lm3d)
 - **Runner** : [Xythran](/members/xythran)
-- **Enforce** : `null`
+- **Enforcer** : `null`
 
 ## CyberCode Online
 
 [LEADER] : [En_Roise](/members/en_roise)
-- OC Runner : [Xythran](/members/xythran)
+- Occupational Control (Runner) : [Xythran](/members/xythran)
 
 ## Arclight City
 
 [LEADER] : [En_Roise](/members/en_roise)
-- TC Runner : [Xythran](/members/xythran)
+- Territory Control (Runner) : [Xythran](/members/xythran)
 
 
 ### Other
