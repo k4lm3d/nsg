@@ -1,6 +1,6 @@
 ---
 title: ""
-description: ""
+description: "Nousagi Gang is a Filipino multi-gaming community founded in 2022, which has continued to develop in different games over the years."
 ---
 
 ![Nousagi Gang banner](/banners/standard.gif)
