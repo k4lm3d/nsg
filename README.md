@@ -16,6 +16,8 @@
 [![Blowfish](https://img.shields.io/badge/Hugo--Themes-@Blowfish-blue)](https://themes.gohugo.io/themes/blowfish/)
 ![code-size](https://img.shields.io/github/languages/code-size/nunocoracao/blowfish)
 
+[![Update Submodule](https://github.com/k4lm3d/nsg/actions/workflows/update-submodule.yml/badge.svg)](https://github.com/k4lm3d/nsg/actions/workflows/update-submodule.yml)
+
 ### Build & deploy
 
   > Settings for Continuous Deployment from a Git repository
