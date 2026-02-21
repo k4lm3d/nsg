@@ -10,7 +10,7 @@ groupByYear: false
 tags: ["Cybernetic Entities"]
 ---
 
-![Harewire banner](harewire/harewire.gif)
+![Harewire banner](/harewire/harewire.gif)
 
 **Nousagi Gang's Discord bot.**<br>
 <small><i>Bot creation date: 17 December 2024</i></small>
@@ -26,5 +26,6 @@ tags: ["Cybernetic Entities"]
 - 📄 To document happenings about the gang by writing logs
 
 ___
+
 
 
