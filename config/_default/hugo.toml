@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 pluralizeListTitles = "true"
 
 enableRobotsTXT = true
-paginate = 10
+pagerSize = 10
 summaryLength = 0
 
 buildDrafts = false
