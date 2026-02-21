@@ -87,13 +87,15 @@ If you don’t know how to code and don't want to do all these, you can ping **`
 
 ___
 
-## Spacial thanks to the following:
+## Spacial Thanks to the following 🙏
 
 - [Hugo](https://gohugo.io/)
 - [Blowfish](https://blowfish.page/) by [Nuno Coraco](https://github.com/nunocoracao)
 - [GitHub](https://github.com/)
-- [Render.com](https://render.com/)
-- [OpenDomains](https://open-domains.net/)
-- [Auto.Creative.co](https://auto.creavite.co/)
-- [Google Gemini](https://gemini.google.com/)
+- [Render](https://render.com/)
+- [Open Domains](https://open-domains.net/)
+- [Auto Creative](https://auto.creavite.co/) *(GIF banners)*
+- [Google Gemini](https://gemini.google.com/) *(creative writing)*
+- [Dola, formerly Cici](https://www.dola.com/) *(background images)*
+- [ChatGPT](https://chatgpt.com/) *(help fix stuff)*
 - and to all the developers who made this website possibly all-free 🧡
