@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Nousagi Gang"
+title = "Nousagi Gang PH"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "Nousagi Gang"
   dateFormat = "2 January 2006"
   logo = "img/nousagi.png"
   # secondaryLogo = "img/logo.png"
-  description = "Nousagi Gang - Gaming Group Website"
+  description = "Nousagi Gang PH - Gaming Group Website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
@@ -23,7 +23,7 @@ title = "Nousagi Gang"
   bio = "*Di palulupig. Di pasisiil.*"
   links = [
 #     { email = "mailto:username@your_domain.com" },
-     { link = "https://fyi.me/p/nousagi" },
+     { link = "https://fyi.me/p/nousagigangph" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -36,7 +36,7 @@ title = "Nousagi Gang"
      { facebook = "https://facebook.com/nousagigangph" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+     { github = "https://github.com/k4lm3d/nsg" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
