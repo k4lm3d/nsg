@@ -16,10 +16,6 @@ layoutBackgroundHeaderSpace: false
 
 <img src="Jude.jpg" width="250">
 
-- **Username:** `Jude`
-- **Role:** `Member`
-- **Gender:** `Male`
-
 #### Socials
 
 {{< button href="https://gamerprofiles.com/gamer/Homongji?inviter=zKB9P" target="_blank" >}}
