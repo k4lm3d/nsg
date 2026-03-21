@@ -12,7 +12,7 @@ showTableOfContents: true
 
 #### STEP 1
 
-{{< icon="github" >}} **Fork** [this](https://github.com/k4lm3d/nsg) repository.
+**Fork** [this](https://github.com/k4lm3d/nsg) repository
 
 {{< github repo="k4lm3d/nsg" showThumbnail=true >}}
 
@@ -77,6 +77,10 @@ layoutBackgroundHeaderSpace: false
     - [Facebook](#!)
     - [Instagram](#!)
 ```
+
+> [!TIP]+ Add feature or background images (Optional)
+> - You can change the default background of your members profile page by adding an image with `background.jpg` filename to your folder (`./content/members/your-username`).
+> - You can also change the default feature image of your profile page by doing the same. Just use `feature.jpg` as your filename.
 
 #### STEP 5
 
