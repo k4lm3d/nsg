@@ -8,10 +8,14 @@ cardViewScreenWidth: false
 
 ![Nousagi Gang banner](/banners/standard.gif)
 
-## In-Game:
-Send `En_Roise` or `Xythran` a direct message *(CCO & ALC)*
+## In-Game
+- CyberCode Online: Direct message `En_Roise` or `Xythran`
+- Arclight City: Direct message `En_Roise`
 
-## Social Media:
-Facebook: Send our [Facebook page](https://www.facebook.com/nousagigangph) a message
+## Social Media
+- Facebook: Message our page: [facebook.com/nousagigangph](https://facebook.com/nousagigangph)
+
+## Email
+- Email us at [nsg.ph@proton.me](mailto:nsg.ph@proton.me)
 
 <!-- {{< article link="/members/en_roise" >}} -->
