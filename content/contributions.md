@@ -53,7 +53,7 @@ showTableOfContents: true
   If you've already have a member profile page, ignore this step.
 {{< /alert >}}
 
-> [!TIP]+ 
+> [!TIP]-
 > If you have [Hugo](https://gohugo.io) installed on your terminal, you can easily do steps 2 and 3 by using this command:
 > 
 > `hugo new content members/your-username/index.md`
@@ -80,7 +80,7 @@ layoutBackgroundHeaderSpace: false
     - [Instagram](#!)
 ```
 
-> [!TIP]+ Add feature or background images (Optional)
+> [!TIP]- Add feature or background images (Optional)
 > - You can change the default background of your members profile page by adding an image with `background.jpg` filename to your folder (`./content/members/your-username`).
 > - You can also change the default feature image of your profile page by doing the same. Just use `feature.jpg` as your filename.
 
