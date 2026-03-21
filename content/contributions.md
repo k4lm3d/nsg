@@ -16,6 +16,7 @@ showTableOfContents: true
 
 {{< github repo="k4lm3d/nsg" showThumbnail=true >}}
 
+<br>
 {{< alert >}}
   If you've already forked it, ignore this step.
 {{< /alert >}}
@@ -24,8 +25,8 @@ showTableOfContents: true
 
 **Create a new folder** with `your-username` inside of `content/members` directory
 
-{{< accordion mode="open" separated=true >}}
-  {{< accordionItem title="See the file structure" icon="lightbulb" open=true >}}
+{{< accordion mode="collapse" separated=true >}}
+  {{< accordionItem title="See the file structure" icon="lightbulb" open=false >}}
 ```shell
 .
 └── content
@@ -39,6 +40,7 @@ showTableOfContents: true
   {{< /accordionItem >}}
 {{< /accordion >}}
 
+<br>
 {{< alert >}}
   Replace 'your-username' with your actual username.
 {{< /alert >}}
@@ -107,5 +109,5 @@ ___
 - [Auto Creative](https://auto.creavite.co/) *(GIF banners)*
 - [Google Gemini](https://gemini.google.com/) *(creative writing)*
 - [Dola, formerly Cici](https://www.dola.com/) *(background images)*
-- [ChatGPT](https://chatgpt.com/) *(help fix stuff)*
+- [ChatGPT](https://chatgpt.com/) *(help fix broken stuff)*
 - and to all the developers who made this website possibly all-free 🧡
