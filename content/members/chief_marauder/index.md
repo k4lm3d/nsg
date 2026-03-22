@@ -9,6 +9,8 @@ showDate: false
 showAuthor: false
 aliases:
 - /chief
+- /chief_marauder
+- /chief-marauder
 layoutBackgroundHeaderSpace: false
 ---
 
