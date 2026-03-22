@@ -1,22 +1,19 @@
 ---
 title: K4LM3D
-# date: 2024-11-23T03:56:26+08:00
-# draft: false
+date: 2024-11-23T03:56:26+08:00
+draft: false
 tags: ["CyberCode Online", "Arclight City", "Torn"]
 description: "Get to know K4LM3D of Nousagi Gang"
 # externalUrl: "https://kalmed.localplayer.dev"
 weight: 3
 showDate: false
 showAuthor: false
-showReadingTime: false
-showEdit: false
-showLikes: false
-showViews: false
+aliases:
+- /kal
 layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
 showHero: true
 heroStyle: "background"
-# featureimage: "background.png"
 ---
 
 {{< lead >}}
