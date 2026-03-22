@@ -1,16 +1,14 @@
 ---
 title: 'Jude'
-# date: 2025-03-11T07:13:50+08:00
-# draft: false
+date: 2025-03-11T07:13:50+08:00
+draft: false
 tags: ["CyberCode Online", "Arclight City", "Torn"]
 # externalUrl: "https://nousagi.onrender.com"
 weight: 5
 showDate: false
 showAuthor: false
-showReadingTime: false
-showEdit: false
-showLikes: false
-showViews: false
+aliases:
+- /jude
 layoutBackgroundHeaderSpace: false
 ---
 
