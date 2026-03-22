@@ -10,6 +10,7 @@ showDate: false
 showAuthor: false
 aliases:
 - /kal
+- /k4lm3d
 layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
 showHero: true
