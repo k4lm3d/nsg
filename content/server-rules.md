@@ -2,6 +2,9 @@
 title: 'Server Rules'
 date: 2024-11-15T03:42:51+08:00
 draft: false
+showDate: true
+aliases:
+- /rules
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
