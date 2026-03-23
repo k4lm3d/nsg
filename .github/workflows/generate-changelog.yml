@@ -18,7 +18,6 @@ jobs:
           echo "# Changelog" > CHANGELOG.md
           echo "" >> CHANGELOG.md
 
-          # Commit types
           TYPES=("feat:Features" "fix:Bug Fixes" "docs:Documentation" "chore:Chores" "refactor:Refactoring" "test:Tests" "style:Style" "perf:Performance")
 
           # Get all commit dates (newest first)
@@ -31,16 +30,16 @@ jobs:
               TYPE=$(echo $TYPE_PAIR | cut -d: -f1)
               HEADING=$(echo $TYPE_PAIR | cut -d: -f2)
 
-              COUNT=$(git log --since="$DATE 00:00" --until="$DATE 23:59" --grep="^$TYPE" --pretty=oneline | wc -l)
+              # Count commits safely
+              COUNT=$(git log --since="$DATE 00:00" --until="$DATE 23:59" --grep="^$TYPE" --pretty=oneline || true | wc -l)
               if [ "$COUNT" -gt 0 ]; then
                 echo "### $HEADING" >> CHANGELOG.md
                 git log --since="$DATE 00:00" --until="$DATE 23:59" --grep="^$TYPE" \
-                  --pretty=format:"- %an | %s ([%h](https://github.com/${GITHUB_REPOSITORY}/commit/%H))" \
-                  >> CHANGELOG.md
+                  --pretty=format:"- %an | %s ([%h](https://github.com/${GITHUB_REPOSITORY}/commit/%H))" || true >> CHANGELOG.md
                 echo "" >> CHANGELOG.md
               fi
             done
           done
 
-      - name: Show CHANGELOG
+      - name: Show generated CHANGELOG.md
         run: cat CHANGELOG.md
