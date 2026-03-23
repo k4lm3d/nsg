@@ -1,0 +1,65 @@
+name: Auto Generate Changelog
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build-changelog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate changelog
+        run: |
+          echo "# Changelog" > CHANGELOG.md
+          echo "" >> CHANGELOG.md
+
+          TYPES=("feat:Features" "fix:Bug Fixes" "docs:Documentation" "chore:Chores" "refactor:Refactoring" "test:Tests" "style:Style" "perf:Performance")
+          DATES=$(git log --date=short --pretty=format:"%ad" | sort -u -r)
+
+          for DATE in $DATES; do
+            echo "## $DATE" >> CHANGELOG.md
+
+            for TYPE_PAIR in "${TYPES[@]}"; do
+              TYPE=$(echo $TYPE_PAIR | cut -d: -f1)
+              HEADING=$(echo $TYPE_PAIR | cut -d: -f2)
+
+              COUNT=$(git log --since="$DATE 00:00" --until="$DATE 23:59" --grep="^$TYPE" --pretty=oneline | wc -l)
+              if [ "$COUNT" -gt 0 ]; then
+                echo "### $HEADING" >> CHANGELOG.md
+                git log --since="$DATE 00:00" --until="$DATE 23:59" --grep="^$TYPE" \
+                  --pretty=format:"- %an | %s ([%h](https://github.com/${GITHUB_REPOSITORY}/commit/%H))" \
+                  >> CHANGELOG.md
+                echo "" >> CHANGELOG.md
+              fi
+            done
+          done
+
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Create/update changelog branch
+        run: |
+          git fetch origin main
+          git checkout -B changelog-update
+          git add CHANGELOG.md
+          git commit -m "Auto update CHANGELOG.md" || echo "No changes"
+          git push origin changelog-update --force
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Auto update CHANGELOG.md"
+          branch: changelog-update
+          base: main
+          title: "Auto-generated changelog update"
+          body: "This PR contains the latest automatically generated changelog."
