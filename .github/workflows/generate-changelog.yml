@@ -1,0 +1,46 @@
+name: Changelog Generation
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate CHANGELOG.md
+        run: |
+          echo "# Changelog" > CHANGELOG.md
+          echo "" >> CHANGELOG.md
+
+          # Commit types
+          TYPES=("feat:Features" "fix:Bug Fixes" "docs:Documentation" "chore:Chores" "refactor:Refactoring" "test:Tests" "style:Style" "perf:Performance")
+
+          # Get all commit dates (newest first)
+          DATES=$(git log --date=short --pretty=format:"%ad" | sort -u -r)
+
+          for DATE in $DATES; do
+            echo "## $DATE" >> CHANGELOG.md
+
+            for TYPE_PAIR in "${TYPES[@]}"; do
+              TYPE=$(echo $TYPE_PAIR | cut -d: -f1)
+              HEADING=$(echo $TYPE_PAIR | cut -d: -f2)
+
+              COUNT=$(git log --since="$DATE 00:00" --until="$DATE 23:59" --grep="^$TYPE" --pretty=oneline | wc -l)
+              if [ "$COUNT" -gt 0 ]; then
+                echo "### $HEADING" >> CHANGELOG.md
+                git log --since="$DATE 00:00" --until="$DATE 23:59" --grep="^$TYPE" \
+                  --pretty=format:"- %an | %s ([%h](https://github.com/${GITHUB_REPOSITORY}/commit/%H))" \
+                  >> CHANGELOG.md
+                echo "" >> CHANGELOG.md
+              fi
+            done
+          done
+
+      - name: Show CHANGELOG
+        run: cat CHANGELOG.md
