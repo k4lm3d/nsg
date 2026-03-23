@@ -13,18 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      # 2️⃣ Generate CHANGELOG.md
       - name: Generate changelog
         run: |
           echo "# Changelog" > CHANGELOG.md
           echo "" >> CHANGELOG.md
 
           TYPES=("feat:Features" "fix:Bug Fixes" "docs:Documentation" "chore:Chores" "refactor:Refactoring" "test:Tests" "style:Style" "perf:Performance")
-          # Newest dates first
           DATES=$(git log --date=short --pretty=format:"%ad" | sort -u -r)
 
           for DATE in $DATES; do
@@ -45,28 +46,34 @@ jobs:
             done
           done
 
+      # 3️⃣ Configure Git
       - name: Configure git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-      - name: Create or update changelog branch safely
+      # 4️⃣ Create or update the changelog branch safely
+      - name: Create/update changelog branch
         run: |
-          # Try to fetch the branch if it exists
           git fetch origin changelog-update || true
-          git checkout -B changelog-update origin/changelog-update || git checkout -B changelog-update
 
-          # Add the changelog
+          if git show-ref --verify --quiet refs/remotes/origin/changelog-update; then
+            git checkout -B changelog-update origin/changelog-update
+          else
+            git checkout -B changelog-update
+          fi
+
           git add CHANGELOG.md
 
           # Commit only if there are changes
           if ! git diff-index --quiet HEAD; then
             git commit -m "Auto update CHANGELOG.md"
-            git push origin changelog-update --force
+            git push origin changelog-update --set-upstream --force
           else
             echo "No changes to commit"
           fi
 
+      # 5️⃣ Create a Pull Request automatically
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
