@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repo
+      # 1️⃣ Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -52,28 +52,20 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-      # 4️⃣ Create or update the changelog branch safely
-      - name: Create/update changelog branch
+      # 4️⃣ Commit & push to existing changelog-update branch
+      - name: Commit changes
         run: |
-          git fetch origin changelog-update || true
-
-          if git show-ref --verify --quiet refs/remotes/origin/changelog-update; then
-            git checkout -B changelog-update origin/changelog-update
-          else
-            git checkout -B changelog-update
-          fi
-
+          git checkout changelog-update
           git add CHANGELOG.md
 
-          # Commit only if there are changes
           if ! git diff-index --quiet HEAD; then
             git commit -m "Auto update CHANGELOG.md"
-            git push origin changelog-update --set-upstream --force
+            git push origin changelog-update
           else
             echo "No changes to commit"
           fi
 
-      # 5️⃣ Create a Pull Request automatically
+      # 5️⃣ Create or update Pull Request
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
