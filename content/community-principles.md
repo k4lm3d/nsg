@@ -2,6 +2,7 @@
 title: Community Principles
 date: 2026-03-24T17:28:38+08:00
 draft: false
+showDate: true
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
