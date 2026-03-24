@@ -1,10 +1,13 @@
 ---
 title: "Nousagi Gang's Official Logo and Color"
-date: "2024-12-17T08:47:50+08:00" # date: 2025-12-24T23:32:50+08:00
+date: "2024-12-17T08:47:50+08:00"
+update: "2025-12-24T23:32:50+08:00"
 draft: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 showTableOfContents: true
+showDate: true
+showDateUpdated: true
 tags: ["NousagiGang", "NewLogo", "NeonOrange", "GamingCommunity"]
 ---
 
