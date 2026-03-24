@@ -14,7 +14,7 @@ showTableOfContents: true
 
 **Fork** [this](https://github.com/k4lm3d/nsg) repository
 
-{{< github repo="k4lm3d/nsg" showThumbnail=true >}}
+{{< github repo="k4lm3d/nsg" showThumbnail=false >}}
 
 <br>
 {{< alert >}}
