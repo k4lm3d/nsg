@@ -2,6 +2,7 @@
 title: 'Gaming Guidelines'
 date: 2024-11-13T16:12:32+08:00
 draft: false
+showDate: true
 description: "[NSG] Gaming Guidelines: Guide to Fair Play and Positive Gaming Experiences"
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
