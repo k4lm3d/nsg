@@ -2,6 +2,7 @@
 title: 'History & Legacy of NSG'
 date: 2026-03-24T17:05:38+08:00
 draft: false
+showDate: true
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
