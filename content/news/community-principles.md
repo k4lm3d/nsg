@@ -1,5 +1,5 @@
 ---
-title: Community Principles
+title: "Nousagi's Community Principles"
 date: 2025-07-01T01:25:33+08:00
 update: 2026-03-24T17:28:38+08:00
 draft: false
