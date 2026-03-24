@@ -27,7 +27,7 @@
 #### Repository
 
 - Repository: [github.com/k4lm3d/nsg](https://github.com/k4lm3d/nsg)
-- Branches: `main`, `dev`
+- Branch: `main`
 - Owner: [k4lm3d](https://github.com/k4lm3d/)
 
 #### Build settings
@@ -46,10 +46,12 @@
 
 #### Custom domains
 
-- Default subdomains: [nousagi.onrender.com](https://nousagi.onrender.com) *([Render](https://render.com/))*
-- Primary subdomains: ~~[nsg.is-local.org](https://nsg.is-local.org/) *([Open-Domains.net](https://open-domains.net/))*~~ [nsg.foo.ng](https://nsg.foo.ng/) *([Pokymon](https://github.com/Pokymon))*
+- Default subdomains:
+    - ❌️ ~~[nousagi.onrender.com](https://nousagi.onrender.com) *([Render](https://render.com/))*~~
+- Primary subdomains:
+    - ✅️ [nsg.foo.ng](https://nsg.foo.ng/) *([Pokymon](https://github.com/Pokymon))*
 - Redirects automatically to primary domain: `false`
-- Domain alias: `nousagi`, `nsg`
+- Domain alias: `nsg`
 
 *[Plan: To have a better domain/subdomain]*
 
