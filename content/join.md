@@ -1,10 +1,12 @@
 ---
 title: Join NSG
 date: 2026-03-24T17:32:38+08:00
-draft: false
+draft: true
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
+
+# Join NSG
 
 🙏 Thank you for your interest in **Nousagi Gang**.
 
@@ -38,3 +40,34 @@ NSG is more than just a gang tag. It is a community built on friendship and shar
 If you share those values, you are always welcome to walk the path with us.
 
 > *“Di palulupig, Di pasisiil. United by games, bound by values.”*
+
+
+___
+
+# Embassy & Allies
+
+The **NSG Embassy** represents our openness to cooperation and friendship with other gaming communities.
+
+While NSG primarily focuses on its own members, we respect and maintain friendly relations with other gangs, factions, and guilds across the games we play.
+
+## Our Approach
+
+NSG believes in:
+
+* Respectful interaction with other groups
+* Fair competition in games
+* Cooperation when beneficial for players and communities
+
+## Alliances
+
+*(This section can list allied gangs or communities in the future.)*
+
+Currently, alliances may vary depending on the game being played.
+
+## Diplomacy
+
+If another community wishes to establish friendly relations with NSG, members may contact one of our leaders in-game.
+
+We welcome respectful communication and cooperation.
+
+Together, communities can help make gaming worlds more enjoyable for everyone.
