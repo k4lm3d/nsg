@@ -2,159 +2,141 @@
 
 All notable changes to the NSG website repository will be documented in this file.
 
-This project uses a simple date-based changelog.
-
 ---
 
 ## [Unreleased]
-### Changed
-- Ongoing content updates and improvements.
+
+- Ongoing improvements and fixes
 
 ---
 
-## [2026-03-21]
+## [2026-03] - Automation, Content Updates & Refinements
+
 ### Added
-- GitHub funding configuration.
+- Created GitHub workflows for changelog generation
+- Added funding configuration (`funding.yml`)
+- New member page: Jude
+- Added aliases for members and documentation shortcuts
 
 ### Changed
-- Updated footer layout and configuration.
-- Updated contact page.
-- Updated contributions page.
-- Updated Jude member page and images.
+- Updated multiple documentation pages (contributions, contact, terminologies)
+- Improved footer and layout components
+- Updated baseURL and site configuration
+- Enhanced terminologies with accordion UI
+- Updated icons and formatting across docs
 
 ### Fixed
-- Fixed image URL issue in footer.
-- Fixed error in contributions page.
-
----
-
-## [2026-03-20]
-### Added
-- New member page: **Jude**.
-
-### Changed
-- Updated Jude feature image.
-
----
-
-## [2026-03-16]
-### Changed
-- Updated Blowfish Hugo theme.
-
----
-
-## [2026-02-21]
-### Added
-- Render build script for deployment.
-
-### Changed
-- Updated README and contributions page.
-- Updated Harewire page.
-- Updated Hugo configuration.
-
----
-
-## [2026-01-25]
-### Added
-- Harewire images and GIF assets.
-- New Harewire index page.
-
-### Changed
-- Updated Harewire bot documentation.
-- Updated Harewire page structure.
-
----
-
-## [2026-01-19]
-### Added
-- Custom CSS styling.
-
-### Changed
-- Updated menus and site configuration.
-- Updated members page.
-- Reorganized operation pages.
-
----
-
-## [2026-01-01]
-### Added
-- Custom footer and head partials for theme customization.
-
-### Changed
-- Updated homepage content.
+- Fixed errors in changelog workflow
+- Fixed image URL issues
+- General bug fixes in documentation
 
 ### Removed
-- Removed unused head partial.
+- Removed redundant GitHub workflows
 
 ---
 
-## [2025-12-27]
-### Changed
-- Updated README and contributions page.
-- Updated GitHub Pages workflow.
-- Updated operation documentation.
+## [2026-02] - Structural Changes & Theme Management
 
----
-
-## [2025-12-26]
 ### Added
-- Operation documentation pages:
-  - Aqua Vista 2025
-  - Golden Dragon 2025
+- Added Blowfish theme as a submodule
+- Created automation workflow for submodule updates
+- Added build/render script
 
 ### Changed
-- Updated homepage and operation pages.
-- Updated security code page.
-
-### Refactored
-- Reorganized roles and operations directories.
-
----
-
-## [2025-12-24]
-### Added
-- News section for the website.
-- Harewire documentation page.
-
-### Changed
-- Updated menus and taxonomies.
-- Improved image URLs and formatting.
-
----
-
-## [2025-07-30]
-### Added
-- Contact page.
-
-### Changed
-- Updated navigation menus.
-- Updated About page.
-
----
-
-## [2025-07-12]
-### Added
-- Leadership page.
-
-### Changed
-- Updated contributions page.
-- Updated homepage layout.
-- Updated server rules.
-
----
-
-## [2025-07-11]
-### Added
-- Gaming Guidelines page.
-- Initial site assets and media.
-- Favicons and static files.
-
-### Changed
-- Updated server rules and protocols.
-- Updated menus and homepage.
+- Updated Hugo configuration files
+- Updated README and contributions
+- Refactored site structure and content organization
 
 ### Removed
-- Removed unused favicon assets.
+- Removed old theme directory
+- Deleted outdated workflows
 
-### Refactored
-- Reorganized roles pages and guidelines files.
+---
+
+## [2026-01] - Major Content Expansion & Site Setup
+
+### Added
+- Legal pages (Privacy Policy, Terms of Service)
+- Harewire section and assets (images, GIFs)
+- Operations pages (Aqua Vista 2025, Golden Dragon 2025)
+- Custom CSS and UI enhancements
+- Navigation menus and layout extensions
+
+### Changed
+- Refactored content into structured directories
+- Improved menus and navigation
+- Updated leadership, about, and contributions pages
+
+### Fixed
+- General layout and configuration fixes
+
+---
+
+## [2025-12] - Operations & Content Organization
+
+### Added
+- Operations pages and security code page
+- News section and branding assets
+
+### Changed
+- Reorganized content structure (roles, guidelines, ops)
+- Updated Harewire information and links
+
+---
+
+## [2025-07] - Major Website Overhaul
+
+### Added
+- Gaming guidelines, server rules, and hop protocol pages
+- Roles and leadership pages
+- Member profiles (xythran, chief_marauder, en_roise)
+- Contributions page
+
+### Changed
+- Massive updates to:
+  - index pages
+  - menus
+  - configurations
+  - terminologies
+- Improved layout and structure
+- Updated assets and media
+
+### Removed
+- Cleaned up old assets (favicons, GIFs, banners)
+- Removed deprecated files and directories
+
+---
+
+## [2025-06] - Visual Updates
+
+### Added
+- New Nousagi gang banner
+
+### Changed
+- Updated homepage and parameters
+
+---
+
+## [2024-11] - Initial Development
+
+### Added
+- Initial project setup
+- Members, roles, and contributions pages
+- Terminologies page
+- Navigation menus and configurations
+
+### Changed
+- Updated configurations and page structure
+
+### Other
+- First commit 🎉
+
+---
+
+## Notes
+- This changelog is derived from commit history and grouped for clarity.
+- Future updates should follow a consistent format:
+  - Added
+  - Changed
+  - Fixed
+  - Removed
