@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to the **dev** branch will be documented in this file.
 
 ---
 
@@ -17,14 +17,14 @@ All notable changes to this project will be documented in this file.
 - Added funding configuration (`funding.yml`)
 - New member page: Jude
 - Added aliases for members and documentation shortcuts
-- Created `baseof.html` and `dev-banner.html`
-- Created `render-build-dev.sh`
+- [DEV] Created `baseof.html` and `dev-banner.html`
+- [DEV] Created `render-build-dev.sh`
 - Created content pages:
-  - `welcome.md`
-  - `roaster.md`
-  - `join.md`
-  - `history.md`
-  - `community-principles.md`
+  - [DRAFT] `welcome.md`
+  - [DRAFT] `roaster.md`
+  - [DRAFT] `join.md`
+  - [DRAFT] `history.md`
+  - [DRAFT] `community-principles.md`
 
 ### Changed
 - Updated multiple documentation pages (contributions, contact, terminologies)
@@ -33,11 +33,11 @@ All notable changes to this project will be documented in this file.
 - Enhanced terminologies with accordion UI
 - Updated icons and formatting across docs
 - Updated primary subdomain
-- Updated design of dev banner and `dev-banner.html`
-- Updated contributions.md and join.md
-- Updated history.md
+- [DEV] Updated design of dev banner and `dev-banner.html`
+- Updated contributions.md and [DRAFT] join.md
+- [DRAFT] Updated history.md
 - Updated news/logo-and-color
-- Updated gaming-guidelines.md, gaming-protocol.md, server-roles.md, and community-principles.md
+- Updated gaming-guidelines.md, gaming-protocol.md, server-roles.md, and [DRAFT] community-principles.md
 - Updated README.md
 
 ### Fixed
@@ -49,7 +49,7 @@ All notable changes to this project will be documented in this file.
 - Removed redundant GitHub workflows
 - Renamed/relocated files for clarity:
   - `content/server-rules.md` → `contents/news/server-rules.md`
-  - `content/community-principles.md` → `content/news/community-principles.md`
+  - [DRAFT] `content/community-principles.md` → `content/news/community-principles.md`
   - `gaming-guidelines/index.md` → `content/gaming-guidelines.md`
   - `gaming-guidelines/old.md` → `archives/gaming-protocol.md`
   - `roles/old.md` → `archives/server-roles.md`
