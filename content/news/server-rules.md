@@ -1,12 +1,14 @@
 ---
-title: 'Server Rules'
+title: "Nousagi Gang's Discord Server Rules"
 date: 2024-11-15T03:42:51+08:00
 draft: false
 showDate: true
-aliases:
-- /rules
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
+aliases:
+- /server-rules
+- /rules
+tags: ["Discord server"]
 ---
 
 ![Server Rules Banner](/banners/NSG_ServerRulesBanner.gif)
@@ -60,7 +62,7 @@ ___
 
 ## Enforcement
 
-  We reserve the right to take appropriate action against those who violate these rules, including warnings, temporary bans, or permanent bans. *(See [punishments](/server-rules#Punishments))*
+  We reserve the right to take appropriate action against those who violate these rules, including warnings, temporary bans, or permanent bans. *(See [punishments](#Punishments))*
 
 <br />
 

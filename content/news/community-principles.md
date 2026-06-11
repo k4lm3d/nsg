@@ -1,12 +1,15 @@
 ---
-title: Community Principles
-date: 2026-03-24T17:28:38+08:00
+title: "Nousagi's Community Principles"
+date: 2025-07-01T01:25:33+08:00
+update: 2026-03-24T17:28:38+08:00
 draft: false
+showDate: true
+showDateUpdated: true
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
 
-As NSG grew from a small gang into a community spanning multiple games, the members recognized the importance of maintaining shared values and respectful conduct.
+As Nousagi [NSG] grew from a small gang into a community spanning multiple games, the members recognized the importance of maintaining shared values and respectful conduct.
 
 To guide members across different gaming worlds, NSG established community standards and internal practices.
 

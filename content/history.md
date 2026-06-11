@@ -2,11 +2,12 @@
 title: 'History & Legacy of NSG'
 date: 2026-03-24T17:05:38+08:00
 draft: false
+showDate: true
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
 
-> *“Di palulupig, Di pasisiil. United by games, bound by values.”*
+> **“Di palulupig, Di pasisiil. United by games, bound by values.”** &mdash;[En_Roise](/members/en_roise)
 
 ## Origins
 
@@ -40,7 +41,7 @@ This expansion reflected the evolving vision of the community: NSG was no longer
 
 The NSG community continues to look toward the future.
 
-There are ongoing plans to establish NSG in [Torn](https://torn.com) (Torn City). The idea has been discussed by [Chief_Marauder](/members/chief_marauder), while [Jude](/members/jude), [Xythran**](/members/xythran) and [K4LM3D](/members/k4lm3d) have also been exploring the possibility.
+There are ongoing plans to establish NSG in [Torn](https://torn.com) (Torn City). The idea has been discussed by [Chief_Marauder](/members/chief_marauder), while [Jude](/members/jude), [Xythran](/members/xythran) and [K4LM3D](/members/k4lm3d) have also been exploring the possibility.
 
 For now, these plans remain in development as members focus on real-life responsibilities. However, the goal remains to eventually bring NSG into even more gaming worlds.
 
@@ -56,7 +57,9 @@ While games may change and time moves forward, the values of the community remai
 
 As the motto says:
 
-> **“Di palulupig, Di pasisiil. United by games, bound by values.”**
+{{< lead >}}
+“Di palulupig, Di pasisiil. United by games, bound by values.”
+{{< /lead >}}
 
 The history of NSG is still being written.
 
