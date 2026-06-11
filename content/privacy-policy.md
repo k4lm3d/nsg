@@ -5,12 +5,10 @@ draft: false
 description: "Nousagi Gang PH Website's Privacy Policy"
 showDate: true
 aliases:
-- /privacy
+- "/privacy/"
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
-
-# Privacy Policy
 
 Last updated: 12 June 2026
 
