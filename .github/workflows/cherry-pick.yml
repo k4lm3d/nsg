@@ -1,10 +1,11 @@
-name: Cherry Pick Latest Dev Commit
+name: Cherry Pick Commit
 
 on:
   workflow_dispatch:
     inputs:
+      commit_sha:
+        required: true
       target_branch:
-        description: Branch to receive the commit
         required: true
 
 jobs:
@@ -25,13 +26,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Fetch dev
+      - name: Fetch Dev
         run: git fetch origin dev
 
-      - name: Cherry-pick latest dev commit
+      - name: Cherry Pick
         run: |
-          COMMIT=$(git rev-parse origin/dev)
-          git cherry-pick $COMMIT
+          git cherry-pick ${{ github.event.inputs.commit_sha }}
 
       - name: Push
         run: |
