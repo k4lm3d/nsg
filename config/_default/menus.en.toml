@@ -164,12 +164,12 @@
 
 [[footer]]
   name = "Privacy Policy"
-  pageRef = "privacy"
+  pageRef = "privacy-polict"
   weight = 13
 
 [[footer]]
   name = "Terms of Use"
-  pageRef = "terms"
+  pageRef = "terms-of-use"
   weight = 14
 
 [[footer]]
