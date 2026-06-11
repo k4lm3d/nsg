@@ -1,6 +1,6 @@
 # NSG – Nousagi Gang PH's Gaming Group Website
 
-> Nousagi Gang PH [NSG] — A Filipino community of text-based MMORPG players.
+> Nousagi Gang PH [NSG] — A Filipino community of text-based MMORPG players. 🇵🇭
 
 ## Site details
 
@@ -33,12 +33,22 @@
 #### Build settings
 
   - Base/root directory: `/`
-  - Build command: ~~`hugo --gc --minify`~~ `bash render-build.sh`
+  - Build command:
+      - `hugo --gc --minify`
+      - `bash render-build.sh` *(only for Render deployments)
   - Publish directory: `public`
   - Builds: `Active`
-  - Deployment: [Render](https://render.com)
+  - Deployment platforms used:
+      - [Render](https://render.com)
+      - [CloudFlare Pages](https://pages.dev)
+      - [Firebase Hosting](https://firebase.google.com/)
   - Manual deployment: `false`
   - Auto-deploy: `true`
+
+> [!IMPORTANT]
+> - Hugo version: `0.155.3`
+>     - Extended included
+> - Blowfish: `v2.100.0`
 
 ### Domains
 
@@ -46,12 +56,20 @@
 
 #### Custom domains
 
-- Default subdomains: [nousagi.onrender.com](https://nousagi.onrender.com) *([Render](https://render.com/))*
-- Primary subdomains: ~~[nsg.is-local.org](https://nsg.is-local.org/) *([Open-Domains.net](https://open-domains.net/))*~~ [nsg.foo.ng](https://nsg.foo.ng/) *([Pokymon](https://github.com/Pokymon))*
+- Default subdomains:
+    - ~~[nousagi.onrender.com](https://nousagi.onrender.com) *([Render](https://render.com/))*~~
+    - Preview: [nsg.pages.dev](https://nsg.pages.dev) *([CloudFlare Pages](https://pages.dev/))*
+    - Production: **[nousagigangph.web.app](https://nousagigangph.web.app)** *([Firebase Hosting](https://firebase.google.com/))*
+    - Preview: [nousagigangph.firebaseapp.com](https://nousagigangph.firebaseapp.com) *([Firebase Hosting](https://firebase.google.com/))*
+- Primary subdomains:
+    - Preview: [nsg.is-local.org](https://nsg.is-local.org/) *([Open-Domains.net](https://open-domains.net/))*
+    - Production: [nsg.foo.ng](https://nsg.foo.ng/) *([Pokymon](https://github.com/Pokymon))*
 - Redirects automatically to primary domain: `false`
-- Domain alias: `nousagi`, `nsg`
+- Domain alias: `nousagi`, `nsg`, `nsgph`,  `nousagiph`, `nousagi-gang`, `nousagigangph`
+- Temporary sites: https://fyi.me/p/nousagi
 
-*[Plan: To have a better domain/subdomain]*
+> [!IMPORTANT]
+> Recommended web address to use is **https://nousagigangph.web.app**
 
 ### Support us
 
@@ -65,3 +83,19 @@
   - [Render Docs](https://docs.render.com/)
   - [Open-Domains Repository](https://github.com/open-domains/Register)
   - [Pokymon Repository](https://github.com/Pokymon/foo.ng)
+  - [CloudFlare Pages docs](https://developers.cloudflare.com/pages/)
+  - [Firebase Documentation](https://firebase.google.com/docs)
+
+### Licensing
+
+#### Source Code
+
+Unless otherwise stated, the source code in this repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+#### Content
+
+Website content, including articles, guides, documentation, screenshots, and other written materials, is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+#### Third-Party Software
+
+This project uses third-party software and themes which are licensed under their respective licenses.
