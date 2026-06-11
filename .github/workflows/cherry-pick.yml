@@ -1,0 +1,38 @@
+name: Cherry Pick Latest Dev Commit
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_branch:
+        description: Branch to receive the commit
+        required: true
+
+jobs:
+  cherry-pick:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.target_branch }}
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch dev
+        run: git fetch origin dev
+
+      - name: Cherry-pick latest dev commit
+        run: |
+          COMMIT=$(git rev-parse origin/dev)
+          git cherry-pick $COMMIT
+
+      - name: Push
+        run: |
+          git push origin HEAD:${{ github.event.inputs.target_branch }}
