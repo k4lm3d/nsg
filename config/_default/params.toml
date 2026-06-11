@@ -54,8 +54,8 @@ smartTOCHideUnfocusedChildren = true
 
 [article]
   showDate = false
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = false
@@ -90,8 +90,8 @@ smartTOCHideUnfocusedChildren = true
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = false
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = false
   showCards = false
   orderByWeight = false
@@ -108,8 +108,8 @@ smartTOCHideUnfocusedChildren = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = false
   cardView = false
 
@@ -117,21 +117,21 @@ smartTOCHideUnfocusedChildren = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = false
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyCDlMaOKo8C-kJOxUWHQ0JcLzVUPZrvxoU"
+  authDomain = "nousagigangph.firebaseapp.com"
+  projectId = "nousagigangph"
+  storageBucket = "nousagigangph.firebasestorage.app"
+  messagingSenderId = "1019800703994"
+  appId = "1:1019800703994:web:c50b528ae69cf95972ca43"
+  measurementId = "G-0TS2BVGRBD"
 
 [fathomAnalytics]
   # site = "ABC12345"
