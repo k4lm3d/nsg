@@ -125,13 +125,13 @@ smartTOCHideUnfocusedChildren = true
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyCDlMaOKo8C-kJOxUWHQ0JcLzVUPZrvxoU"
+  authDomain = "nousagigangph.firebaseapp.com"
+  projectId = "nousagigangph"
+  storageBucket = "nousagigangph.firebasestorage.app"
+  messagingSenderId = "1019800703994"
+  appId = "1:1019800703994:web:c50b528ae69cf95972ca43"
+  measurementId = "G-0TS2BVGRBD"
 
 [fathomAnalytics]
   # site = "ABC12345"
