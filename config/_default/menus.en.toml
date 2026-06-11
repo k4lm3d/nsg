@@ -26,22 +26,28 @@
   weight = 11
 
 [[main]]
-  name = "Harewire"
+  name = "History & Legacy"
   parent = "About"
-  pageRef = "harewire"
+  pageRef = "history"
   weight = 12
-
-[[main]]
-  name = "Terminologies"
-  parent = "About"
-  pageRef = "terminologies"
-  weight = 13
 
 [[main]]
   name = "Contact Us"
   parent = "About"
   pageRef = "contact"
+  weight = 13
+
+[[main]]
+  name = "Harewire"
+  parent = "About"
+  pageRef = "harewire"
   weight = 14
+
+[[main]]
+  name = "Terminologies"
+  parent = "About"
+  pageRef = "terminologies"
+  weight = 15
 
 
 [[main]]
@@ -155,3 +161,18 @@
   name = "Contributions"
   pageRef = "contributions"
   weight = 12
+
+[[footer]]
+  name = "Privacy Policy"
+  pageRef = "privacy"
+  weight = 13
+
+[[footer]]
+  name = "Terms of Use"
+  pageRef = "terms"
+  weight = 14
+
+[[footer]]
+  name = "Source Code"
+  url = "https://github.com/k4lm3d/nsg/"
+  weight = 15

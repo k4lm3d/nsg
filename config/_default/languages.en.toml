@@ -16,14 +16,14 @@ title = "Nousagi Gang PH"
 
 [params.author]
   name = "Nousagi Gang 🇵🇭"
-  # email = "username@example.com"
+  email = "nsg.ph@proton.me"
   image = "img/nousagi.png" # "img/avatar.png"
   imageQuality = 96
   headline = "*United by games. Bound by values.*"
   bio = "*Di palulupig. Di pasisiil.*"
   links = [
-#     { email = "mailto:username@your_domain.com" },
-     { link = "https://fyi.me/p/nousagigangph" },
+     { email = "mailto:nsg.ph@proton.me" },
+#     { link = "https://fyi.me/p/nousagigangph" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
