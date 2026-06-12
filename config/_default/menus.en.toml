@@ -44,10 +44,16 @@
   weight = 14
 
 [[main]]
-  name = "Terminologies"
+  name = "Gaming Guidelines"
   parent = "About"
-  pageRef = "terminologies"
+  pageRef = "gaming-guidelines"
   weight = 15
+
+[[main]]
+  name = "HOP Protocol"
+  parent = "About"
+  pageRef = "hop-protocol"
+  weight = 16
 
 
 [[main]]
@@ -148,31 +154,31 @@
 #   weight = 20
 
 [[footer]]
-  name = "Gaming Guidelines"
-  pageRef = "gaming-guidelines"
-  weight = 10
-
-[[footer]]
-  name = "HOP Protocol"
-  pageRef = "hop-protocol"
-  weight = 11
-
-[[footer]]
   name = "Contributions"
   pageRef = "contributions"
-  weight = 12
+  weight = 10
 
 [[footer]]
   name = "Privacy Policy"
   pageRef = "privacy-policy"
-  weight = 13
+  weight = 11
 
 [[footer]]
   name = "Terms of Use"
   pageRef = "terms-of-use"
-  weight = 14
+  weight = 12
 
 [[footer]]
   name = "Source Code"
   url = "https://github.com/k4lm3d/nsg/"
+  weight = 13
+
+[[footer]]
+  name = "Sitemap"
+  pageRef = "sitemap.xml"
+  weight = 14
+
+[[footer]]
+  name = "RSS"
+  pageRef = "index.xml"
   weight = 15
