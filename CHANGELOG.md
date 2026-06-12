@@ -10,6 +10,67 @@ All notable changes to the NSG website repository will be documented in this fil
 
 ---
 
+## [2026-06] - Added legal pages, licensing, Firebase integration, deployment automation, and navigation improvements.
+
+### Added
+
+* Added homepage exploration suggestions and explore options.
+* Added email address to profile and site pages.
+* Added navigation menu entries:
+  * History
+  * Privacy Policy
+  * Terms of Use
+  * Source Code
+* Added Privacy Policy and Terms of Use pages.
+* Added Community Principles page.
+* Added History page.
+* Added CONTRIBUTING.md.
+* Added MIT License.
+* Added licensing information to README.
+* Added Firebase configuration values.
+* Added Firebase Hosting configuration.
+* Added GitHub Actions workflow for deploying Hugo site to Firebase Hosting.
+* Enabled Firebase Views and Likes features through Firestore.
+
+### Changed
+
+* Updated footer navigation menus.
+* Updated site menu configuration.
+* Updated Privacy Policy content.
+* Updated README documentation.
+* Updated Hugo configuration.
+* Updated Roles page and archived the previous version.
+* Updated build settings, domains, and resource configuration.
+* Updated GitHub Actions cherry-pick workflow.
+* Reorganized Privacy Policy content structure.
+* Updated various site pages and content.
+
+### Fixed
+
+* Fixed homepage menu link errors.
+
+### Infrastructure
+
+* Enabled Google Analytics and configured Measurement ID.
+* Enabled deployment of Hugo site to Firebase Hosting.
+* Added cherry-pick workflow and imported history-related content into legal branch.
+
+### Documentation
+
+* Added CONTRIBUTING guidelines.
+* Added licensing and legal documentation.
+* Added Privacy Policy and Terms of Use documentation.
+
+---
+
+## [2026-04] - Updated Blowfish theme
+
+### Changed
+
+* Updated Blowfish theme
+
+---
+
 ## [2026-03] - Automation, Content Updates & Refinements
 
 ### Added
@@ -23,6 +84,7 @@ All notable changes to the NSG website repository will be documented in this fil
   - [DRAFT] `join.md`
   - [PUBLISHED] `history.md`
   - [PUBLISHED] `community-principles.md`
+- Created CHANGELOG.md
 
 ### Changed
 - Updated multiple documentation pages (contributions, contact, terminologies)
@@ -35,6 +97,7 @@ All notable changes to the NSG website repository will be documented in this fil
 - Updated news/logo-and-color
 - Updated gaming-guidelines.md, gaming-protocol.md, server-roles.md, and community-principles.md
 - Updated README.md
+- Updated CHANGELOG.md
 
 ### Fixed
 - Fixed errors in changelog workflow
