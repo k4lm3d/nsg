@@ -17,6 +17,12 @@ All notable changes to the NSG website repository will be documented in this fil
 - Added funding configuration (`funding.yml`)
 - New member page: Jude
 - Added aliases for members and documentation shortcuts
+- Created content pages:
+  - [DRAFT] `welcome.md`
+  - [DRAFT] `roaster.md`
+  - [DRAFT] `join.md`
+  - [PUBLISHED] `history.md`
+  - [PUBLISHED] `community-principles.md`
 
 ### Changed
 - Updated multiple documentation pages (contributions, contact, terminologies)
@@ -24,6 +30,11 @@ All notable changes to the NSG website repository will be documented in this fil
 - Updated baseURL and site configuration
 - Enhanced terminologies with accordion UI
 - Updated icons and formatting across docs
+- Updated contributions.md and [DRAFT] join.md
+- Updated history.md
+- Updated news/logo-and-color
+- Updated gaming-guidelines.md, gaming-protocol.md, server-roles.md, and community-principles.md
+- Updated README.md
 
 ### Fixed
 - Fixed errors in changelog workflow
@@ -32,6 +43,13 @@ All notable changes to the NSG website repository will be documented in this fil
 
 ### Removed
 - Removed redundant GitHub workflows
+- Renamed/relocated files for clarity:
+  - `content/server-rules.md` → `contents/news/server-rules.md`
+  - `content/community-principles.md` → `content/news/community-principles.md`
+  - `gaming-guidelines/index.md` → `content/gaming-guidelines.md`
+  - `gaming-guidelines/old.md` → `archives/gaming-protocol.md`
+  - `roles/old.md` → `archives/server-roles.md`
+  - `content/roles/index.md` → `content/roles.md`
 
 ---
 
