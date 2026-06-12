@@ -175,10 +175,10 @@
 
 [[footer]]
   name = "Sitemap"
-  pageRef = "sitemap.xml"
+  pageRef = "/sitemap.xml"
   weight = 14
 
 [[footer]]
   name = "RSS"
-  pageRef = "index.xml"
+  pageRef = "/index.xml"
   weight = 15
