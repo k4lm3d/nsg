@@ -16,7 +16,7 @@ Learn how we collect, use, and protect information when you visit and interact w
 
 {{< button href="/privacy-policy/" target="_blank" >}}
 View Privacy Policy
-{{< /button >}}
+{{< /button >}}&nbsp;
 
 {{< article link="/privacy-policy/" showSummary=false compactSummary=false >}}
 
@@ -38,17 +38,17 @@ View Terms of Use
 
 Unless otherwise stated:
 
-* Source code is licensed under the [MIT License](https://github.com/k4lm3d/nsg/blob/main/LICENSE).
+→ Source code is licensed under the [MIT License](https://github.com/k4lm3d/nsg/blob/main/LICENSE).
 
 {{< button href="https://github.com/k4lm3d/nsg/blob/main/LICENSE" target="_blank" >}}
 View MIT License
-{{< /button >}}
+{{< /button >}}&nbsp;
 
-* Original website content is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+→ Original website content is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 {{< button href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" >}}
 View CC BY-NC-SA 4.0 License
-{{< /button >}}
+{{< /button >}}&nbsp;
 
 For more information, please see the project's repository and licensing documentation.
 
