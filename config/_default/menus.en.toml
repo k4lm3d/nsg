@@ -148,31 +148,11 @@
 #   weight = 20
 
 [[footer]]
-  name = "Gaming Guidelines"
-  pageRef = "gaming-guidelines"
-  weight = 10
-
-[[footer]]
-  name = "HOP Protocol"
-  pageRef = "hop-protocol"
+  name = "Privacy Policy / Terms / License /"
+  pageRef = "legal"
   weight = 11
 
 [[footer]]
-  name = "Contributions"
-  pageRef = "contributions"
+  name = "Site Resources / Sitemap / RSS"
+  pageRef = "resources"
   weight = 12
-
-[[footer]]
-  name = "Privacy Policy"
-  pageRef = "privacy-polict"
-  weight = 13
-
-[[footer]]
-  name = "Terms of Use"
-  pageRef = "terms-of-use"
-  weight = 14
-
-[[footer]]
-  name = "Source Code"
-  url = "https://github.com/k4lm3d/nsg/"
-  weight = 15
