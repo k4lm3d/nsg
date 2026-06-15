@@ -12,7 +12,9 @@ aliases:
 layoutBackgroundHeaderSpace: false
 ---
 
-<img src="Xythran.png" width="250">
+{{< figure src="Xythran.png" alt="Xythran's avatar" caption="Xythran" class="member-avatar" >}}
+
+{{< figure src="Xythran.png" alt="Xythran's avatar" caption="Xythran" class="w-[250px] h-auto object-cover" >}}
 
 - **Username:** `Xythran`
 - **Role:** `Runner`
