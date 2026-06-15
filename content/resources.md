@@ -76,7 +76,7 @@ Learn about the technologies, services, and tools used to build and operate this
 * GitHub Actions
 
 {{< button href="https://github.com/k4lm3d/nsg/blob/main/README.md#build--deploy" target="_blank" >}}
-View Bused & Deploy
+View Build & Deploy
 {{< /button >}}
 
 ---
@@ -129,4 +129,6 @@ Contributing Guide
 
 If you have questions, suggestions, or encounter issues, please contact us through:
 
-* Email: [nsg.ph@proton.me](mailto:nsg.ph@proton.me)
+{{< button href="mailto:nsg.ph@proton.me" target="_blank" >}}
+Email
+{{< /button >}}
