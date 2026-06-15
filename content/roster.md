@@ -19,7 +19,7 @@ This page lists members of the Nousagi Gang PH community across different games.
 - Member Name
 
 {{< accordion mode="open" separated=true >}}
-  {{< accordionItem title="Note" icon="info" open=true >}}
+  {{< accordionItem title="Info" icon="lightbulb" open=true >}}
   Membership may vary across different games. Some members may be active in one game while inactive in another.
 
   NSG remains a flexible community where members participate as their time and real-life responsibilities allow.
