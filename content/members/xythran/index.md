@@ -16,6 +16,8 @@ layoutBackgroundHeaderSpace: false
 
 {{< figure src="Xythran.png" alt="Xythran's avatar" caption="Xythran" class="w-[250px] h-auto object-cover" >}}
 
+{{< figure src="Xythran.png" >}}
+
 - **Username:** `Xythran`
 - **Role:** `Runner`
 - **Gender:** `Male`
