@@ -24,3 +24,5 @@ textarea:focus {
     border:          1px solid var(--primary-color) !important;
     --tw-ring-color: var(--primary-color) !important;
 }
+
+.member-avatar { width: 250; }
