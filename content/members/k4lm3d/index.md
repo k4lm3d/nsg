@@ -25,7 +25,7 @@ heroStyle: "background"
 
 #### Info
 
-<img src="K4LM3D.png" width="250">
+![K4LM3D's avatar](K4LM3D.png)
 
 - **Username:** `K4LM3D`
 - **Nickname:** `Kal`
@@ -45,6 +45,9 @@ heroStyle: "background"
 {{< button href="https://www.instagram.com/k4lm3d" target="_blank" >}}
 {{< icon "instagram" >}} Instagram
 {{< /button >}} &nbsp;
+{{< button href="https://gamerprofiles.com/gamer/k4lm3d?inviter=wnB4D" target="_blank" >}}
+{{< icon "link" >}} GamerProfiles
+{{< /button >}}
 
 ___
 
@@ -61,9 +64,5 @@ ___
 
   {{< timelineItem icon="lightbulb" header="TORN" badge="2023" >}}
   {{</ timelineItem >}}
-
-  <!-- {{< timelineItem icon="code" header="Header" badge="Badge" subheader="Subheader" >}}
-    {{< icon "github" >}} Lorem ipsum.
-  {{</ timelineItem >}} -->
 
 {{</ timeline >}}
