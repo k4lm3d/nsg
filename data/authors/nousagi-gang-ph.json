@@ -1,0 +1,9 @@
+{
+    "name": "Nousagi Gang 🇵🇭",
+    "image" : "images/nousagi-gang-logo.png",
+    "bio": "Filipino gaming collective, united by our love for text-based MMORPGs",
+    "social": [
+        { "facebook": "https://facebook.com/nousagigangph" },
+        { "github": "https://github.com/k4lm3d/nsg" }
+    ]
+}
