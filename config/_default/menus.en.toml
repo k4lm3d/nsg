@@ -44,13 +44,6 @@
   weight = 14
 
 [[main]]
-  name = "Terminologies"
-  parent = "About"
-  pageRef = "terminologies"
-  weight = 15
-
-
-[[main]]
   name = "News"
   weight = 20
 
@@ -88,6 +81,12 @@
   parent = "Members"
   pageRef = "roles"
   weight = 33
+
+[[main]]
+  name = "Roster"
+  parent = "Members"
+  pageRef = "roster"
+  weight = 34
 
 #[[main]]
 #  name = "Parent"
@@ -137,22 +136,22 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+ [[footer]]
+   name = "Gaming Guidelines"
+   pageRef = "gaming-guidelines"
+   weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+ [[footer]]
+   name = "HOP Protocol"
+   pageRef = "hop-protocol"
+   weight = 11
 
 [[footer]]
-  name = "Privacy Policy / Terms / License /"
+  name = "Privacy Policy"
   pageRef = "legal"
-  weight = 11
+  weight = 12
 
 [[footer]]
-  name = "Site Resources / Sitemap / RSS"
+  name = "Site Resources"
   pageRef = "resources"
-  weight = 12
+  weight = 13
