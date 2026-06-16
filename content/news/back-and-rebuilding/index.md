@@ -56,7 +56,7 @@ United by games, bound by values.
 
 ---
 
-> [!NOTE]+ Want to Rejoin NSG?
+> [!WARNING]+ Want to Rejoin NSG? + lightbulb
 > 
 > ✅ Log in to [CyberCode Online](https://cybercodeonline.com)
 > 
@@ -69,4 +69,34 @@ United by games, bound by values.
 > We'll get you set up and help bring NSG back to life.
 > 
 > 🐰 Former members are always welcome home.
+> 
+
+> [!WARNING]+ Member Reflections + users
+> As news of the gang's dissolution spread, many current and former members shared their thoughts and memories of their time in NSG.
+>
+> *(Editor's Note: The reflections below were shared by former and current NSG members in response to questions about the dissolution of the gang. To improve readability, some responses have been lightly edited for grammar, formatting, and clarity while preserving the original thoughts, sentiments, and intent of each contributor.)*
+> 
+> [Homongji](/members/jude/) *(formerly Azhulong31 and Tamaraw31)*
+> 
+> > "As an NSG member, I felt sad when I learned that the gang had dissolved. It was through NSG that I found new online friends who eventually became like family despite the distance between us. Being part of the gang taught me that meaningful friendships and a sense of family can exist even with people who live far away.
+> >
+> > Of course I miss the gang. Who could forget the giveaways and contests? Even though I didn't win some of them, I was always happy because I gave it my best."
+>
+> ---
+> 
+> [Xythran](/members/xythran)
+> 
+> > "I felt nostalgic and a bit sad. There was a time when I really wanted the gang to grow, so I spent a lot of time inviting players while grinding. But as the game evolved, not many people stayed active, and eventually I also became less active compared to when I was deeply engaged in the game.
+> >
+> > What I miss most are the grinding sessions and having people online with you. Sometimes you'd be surprised to see active members chatting about random things. It's a unique experience that's hard to find in other games. Hopefully, we can build something like that again in the future—maybe even in another game where we can all be active together."
+>
+> ---
+>
+> *A Legacy Beyond the Game*
+>
+> Although the original NSG chapter in CyberCode Online came to an end, its story is far from over. The gang has since been re-established, and efforts are currently underway to restore its upkeep resources and rebuild its foundation.
+>
+> The memories, friendships, events, contests, late-night grinding sessions, and random conversations that brought us together remain an important part of our history. As these reflections show, NSG was never just a gang—it was a community that connected people from different places and backgrounds through a shared passion for gaming.
+>
+> As we begin this new chapter, we carry forward the spirit of NSG and the friendships that made it special. We look forward to creating new memories together and welcoming both returning and new members into the community once again.
 > 
