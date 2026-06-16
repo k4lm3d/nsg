@@ -101,3 +101,7 @@ tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 > The memories, friendships, events, contests, late-night grinding sessions, and random conversations that brought us together remain an important part of our history. As these reflections show, NSG was never just a gang—it was a community that connected people from different places and backgrounds through a shared passion for gaming.
 >
 > As we begin this new chapter, we carry forward the spirit of NSG and the friendships that made it special. We look forward to creating new memories together and welcoming both returning and new members into the community once again.
+
+> [!TIP]+ Custom Title + Custom Icon
+> A collapsible admonition with custom title.
+{icon="twitter"}
