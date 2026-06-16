@@ -44,19 +44,6 @@
   weight = 14
 
 [[main]]
-  name = "Gaming Guidelines"
-  parent = "About"
-  pageRef = "gaming-guidelines"
-  weight = 15
-
-[[main]]
-  name = "HOP Protocol"
-  parent = "About"
-  pageRef = "hop-protocol"
-  weight = 16
-
-
-[[main]]
   name = "News"
   weight = 20
 
@@ -94,6 +81,12 @@
   parent = "Members"
   pageRef = "roles"
   weight = 33
+
+[[main]]
+  name = "Roster"
+  parent = "Members"
+  pageRef = "roster"
+  weight = 34
 
 #[[main]]
 #  name = "Parent"
@@ -143,42 +136,22 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+ [[footer]]
+   name = "Gaming Guidelines"
+   pageRef = "gaming-guidelines"
+   weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
-
-[[footer]]
-  name = "Contributions"
-  pageRef = "contributions"
-  weight = 10
+ [[footer]]
+   name = "HOP Protocol"
+   pageRef = "hop-protocol"
+   weight = 11
 
 [[footer]]
   name = "Privacy Policy"
-  pageRef = "privacy-policy"
-  weight = 11
-
-[[footer]]
-  name = "Terms of Use"
-  pageRef = "terms-of-use"
+  pageRef = "legal"
   weight = 12
 
 [[footer]]
-  name = "Source Code"
-  url = "https://github.com/k4lm3d/nsg/"
+  name = "Site Resources"
+  pageRef = "resources"
   weight = 13
-
-[[footer]]
-  name = "Sitemap"
-  url = "/sitemap.xml"
-  weight = 14
-
-[[footer]]
-  name = "RSS"
-  url = "/index.xml"
-  weight = 15
