@@ -12,7 +12,7 @@ showDateUpdated: true
 tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 ---
 
-> [!WARNING]+ Official Statement
+> [!WARNING]+ Official Statement + icon="quote-left"
 > To all current and former members of Nousagi Gang PH,
 >
 > We have some unfortunate news to share.
@@ -55,11 +55,10 @@ tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 > Di palulupig, Di pasisiil.\
 > United by games, bound by values.
 > &mdash;[K4LM3D](/members/k4lm3d) 2026.06.16
-{icon="quote-left"}
 
 ---
 
-> [!WARNING]+ Want to Rejoin NSG?
+> [!WARNING]+ Want to Rejoin NSG? + circle-info
 > ✅ Log in to [CyberCode Online](https://cybercodeonline.com)
 > 
 > ✅ Contact `K4LM3D` or `Xythran`
@@ -71,7 +70,6 @@ tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 > We'll get you set up and help bring NSG back to life.
 > 
 > 🐰 Former members are always welcome home.
-{icon="circle-info"}
 
 ---
 
