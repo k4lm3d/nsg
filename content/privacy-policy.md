@@ -5,7 +5,8 @@ draft: false
 description: "Nousagi Gang PH Website's Privacy Policy"
 showDate: true
 aliases:
-- "/privacy/"
+- /privacy
+- /policy
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
