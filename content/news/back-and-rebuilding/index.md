@@ -12,7 +12,7 @@ showDateUpdated: true
 tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 ---
 
-> [!WARNING]+ Official Statement + icon="quote-left"
+> [!WARNING]+ Official Statement
 > To all current and former members of Nousagi Gang PH,
 >
 > We have some unfortunate news to share.
@@ -58,7 +58,7 @@ tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 
 ---
 
-> [!WARNING]+ Want to Rejoin NSG? + circle-info
+> [!WARNING]+ Want to Rejoin NSG?
 > ✅ Log in to [CyberCode Online](https://cybercodeonline.com)
 > 
 > ✅ Contact `K4LM3D` or `Xythran`
@@ -73,7 +73,7 @@ tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 
 ---
 
-> [!WARNING]+ Member Reflections + {icon="comment"}
+> [!WARNING]+ Member Reflections
 > As news of the gang's dissolution spread, many current and former members shared their thoughts and memories of their time in NSG.
 >
 > *(Editor's Note: The reflections below were shared by former and current NSG members in response to questions about the dissolution of the gang. To improve readability, some responses have been lightly edited for grammar, formatting, and clarity while preserving the original thoughts, sentiments, and intent of each contributor.)*
@@ -101,4 +101,3 @@ tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 > The memories, friendships, events, contests, late-night grinding sessions, and random conversations that brought us together remain an important part of our history. As these reflections show, NSG was never just a gang—it was a community that connected people from different places and backgrounds through a shared passion for gaming.
 >
 > As we begin this new chapter, we carry forward the spirit of NSG and the friendships that made it special. We look forward to creating new memories together and welcoming both returning and new members into the community once again.
-{icon="comment"}
