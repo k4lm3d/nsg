@@ -18,13 +18,21 @@ We have some unfortunate news to share.
 
 On June 5, 2026, it was discovered that the **Nousagi Gang** in **CyberCode Online** had been dissolved due to insufficient upkeep resources and funds after a long period of inactivity.
 
+![Screenshot from CCO PH Discord server of Chiiims](Screenshot_20260605_Discord.jpg "Screenshot from CCO PH Discord server of Chiiims")
+
+<small>*(**Disclaimer:** To respect the privacy of our members and friends, some screenshots shown in this announcement have been edited. Usernames, profile pictures, IDs, timestamps, and other personal or sensitive information may have been redacted, blurred, cropped, or modified. These changes were made solely for privacy purposes and do not affect the authenticity or context of the events being documented.)*</small>
+
 The discovery was first made by **BLACK_ACE**, who noticed that he was no longer part of the gang and announced in CCO's Tagalog chat. **Chiiims** of **Meows_Cafe [8_8]** informed members through Discord, and [Homongji](/members/jude) later confirmed that the gang had indeed been dissolved.
 
 For many of us, this was heartbreaking news.
 
+![Screenshot from CCO PH Discord server of Chiiims](Screenshot_20260608_Discord.jpg "Screenshot from CCO PH Discord server of Chiiims")
+
 **Nousagi [NSG]** was founded on February 23, 2022, and became home to countless memories, friendships, victories, and adventures. Though activity gradually declined as members became busy with work, studies, family, and other real-life responsibilities, the community itself remained close to our hearts.
 
 When I learned of the dissolution on June 8, I immediately informed our founder, **Skae_19**. Like many of us, he was saddened by the news. We also attempted to contact our leader, [En_Roise](/members/en_roise), but unfortunately have not yet received a response.
+
+![Screenshot from K4LM3D and Skae_19 Discord chat messages](Screenshot_20260608_Discord1.jpg "Screenshot from K4LM3D and Skae_19 Discord chat messages")
 
 The dissolution of Nousagi Gang in CyberCode Online marks the end of an important chapter in our history. However, after reflecting on everything this community has meant to us, we realized something important:
 
