@@ -26,6 +26,7 @@ googleAnalytics = "G-0TS2BVGRBD"
 [taxonomies]
   tag = "tags"
   category = "categories"
+  author = "authors"
 
 [sitemap]
   changefreq = 'daily'

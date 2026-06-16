@@ -15,7 +15,7 @@ We’ve got exciting news! 🗞️
 
 Introducing our official logo and color! 🎨
 
-![Nousagi Gang's Logo](https://nousagi.onrender.com/images/nousagi-gang-logo.png)
+![Nousagi Gang's Logo](/images/nousagi-gang-logo.png)
 
 After some tweaks and refinements, we’re proud to unveil our official logo.
 
