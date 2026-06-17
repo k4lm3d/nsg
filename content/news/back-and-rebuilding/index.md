@@ -24,7 +24,7 @@ On June 5, 2026, it was discovered that the **Nousagi Gang** in **CyberCode Onli
 
 <small>*(**Disclaimer:** To respect the privacy of our members and friends, some screenshots shown in this announcement have been edited. Usernames, profile pictures, IDs, timestamps, and other personal or sensitive information may have been redacted, blurred, cropped, or modified. These changes were made solely for privacy purposes and do not affect the authenticity or context of the events being documented.)*</small>
 
-The discovery was first made by **BLACK_ACE**, who noticed that he was no longer part of the gang and announced in CCO's Tagalog chat. **Chiiims** of **Meows_Cafe [8_8]** informed members through Discord, and [Homongji](/members/jude) later confirmed that the gang had indeed been dissolved.
+The discovery was first made by **BLACK_ACE**, who noticed that he was no longer part of the gang and announced in CCO's Tagalog chat. **Chiiims** of **Meows_Cafe [8_8]** informed members through CCO PH Discord server, and [Homongji](/members/jude) later confirmed that the gang had indeed been dissolved.
 
 For many of us, this was heartbreaking news.
 
@@ -89,7 +89,7 @@ United by games, bound by values.
   
   <small>*(Editor's Note: The reflections below were shared by former and current NSG members in response to questions about the dissolution of the gang. To improve readability, some responses have been lightly edited for grammar, formatting, and clarity while preserving the original thoughts, sentiments, and intent of each contributor.)*</small>
   
-  [Homongji](/members/jude/) <small>*(formerly Azhulong31 and Tamaraw31)*</small>
+  [Homongji](/members/jude/) <small>*(formerly known as Azhulong_31)*</small>
   > "As an NSG member, I felt sad when I learned that the gang had dissolved. It was through NSG that I found new online friends who eventually became like family despite the distance between us. Being part of the gang taught me that meaningful friendships and a sense of family can exist even with people who live far away.
   >
   > Of course I miss the gang. Who could forget the giveaways and contests? Even though I didn't win some of them, I was always happy because I gave it my best."
