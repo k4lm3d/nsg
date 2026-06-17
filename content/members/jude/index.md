@@ -12,7 +12,15 @@ aliases:
 layoutBackgroundHeaderSpace: false
 ---
 
+#### Info
+
 ![Jude's avatar](Jude.jpg)
+
+- **Username:** `Homongji`
+  - Former usernames: `Azhulong_31`, `Tarntamount`, `Tamaraw31`
+- **Nickname:** `Jude`
+- **Gender:** `Male`
+- **Role:** `Enforcer`
 
 #### Socials
 
