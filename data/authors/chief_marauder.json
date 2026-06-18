@@ -1,0 +1,10 @@
+{
+    "name": "Chief_Marauder",
+    "image" : "avatars/Chief_Marauder.jpg",
+    "bio": "Fixer",
+    "social": [
+        { "tiktok": "https://www.tiktok.com/@chiefmarauder" },
+        { "twitch": "https://twitch.tv/ch1efmarauder" },
+        { "youtube": "https://youtube.com/@chiefmarauder" }
+    ]
+}
