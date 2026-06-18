@@ -29,6 +29,8 @@ Honestly, when I first stepped up, I didn't fully realize how much responsibilit
 
 That changed when I started sending direct messages to former and current NSG members on [Discord](https://discord.com). As I reached out to people, I realized that rebuilding the gang wasn't just about creating a new roster. We would also need to rebuild our resources, funds, and support network from the ground up.
 
+{{< article link="/news/back-and-rebuilding/" showSummary=true compactSummary=true >}}
+
 If you've read my [previous announcement](/news/back-and-rebuilding) on June 16, you'll know that [Xythran](members/xythran) committed to helping me even before we officially re-established the gang in [CyberCode Online](https://cybercodeonline.com).
 
 Yesterday, June 17, I reached out to [Homongji](members/jude) and asked if he could commit as well. He accepted my invitation, joined the game, and told me he could balance helping the gang alongside his studies.
@@ -79,6 +81,9 @@ At that time, the former gang was **Level 36** and had the following upkeep stat
 When I did the math, the resources would have only lasted around **fourteen more weeks** from January 27.
 
 That means the gang most likely dissolved during the **last week of April**&mdash;almost a month before **BLACK_ACE** eventually discovered it.
+
+<div class="tenor-gif-embed" data-postid="1859517900645156691" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gasp-no-way-surprise-surprised-plot-twist-gif-1859517900645156691">Gasp No Way GIF</a>from <a href="https://tenor.com/search/gasp-gifs">Gasp GIFs</a></div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Isn't that crazy?
 
