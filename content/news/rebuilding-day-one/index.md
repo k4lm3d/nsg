@@ -82,8 +82,7 @@ When I did the math, the resources would have only lasted around **fourteen more
 
 That means the gang most likely dissolved during the **last week of April**&mdash;almost a month before **BLACK_ACE** eventually discovered it.
 
-<div class="tenor-gif-embed" data-postid="1859517900645156691" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gasp-no-way-surprise-surprised-plot-twist-gif-1859517900645156691">Gasp No Way GIF</a>from <a href="https://tenor.com/search/gasp-gifs">Gasp GIFs</a></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Gasp No Way Gif]https://media.tenor.com/Gc5VrbFvR1MAAAAd/gasp-no-way.gif)
 
 Isn't that crazy?
 
