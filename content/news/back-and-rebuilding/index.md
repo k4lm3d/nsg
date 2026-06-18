@@ -3,7 +3,9 @@ title: NSG is Back and Rebuilding
 date: 2026-06-16T22:33:00+08:00
 update: 2026-06-17T00:27:00+08:00
 draft: false
-aliases: ["rebuilding", "20260616"]
+aliases:
+- /rebuilding
+- /20260616
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 showTableOfContents: true
@@ -12,7 +14,9 @@ showDateUpdated: true
 tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 showAuthor: true
 authors: ["k4lm3d", "jude", "xythran"]
-showAuthorsBadges: true
+showAuthorsBadges: false
+showReadingTime: true
+showWordCount: true
 ---
 
 To all current and former members of Nousagi Gang PH,
