@@ -23,13 +23,13 @@ showWordCount: true
 A leader's log documenting the first day of rebuilding Nousagi [NSG] on CyberCode Online.
 {{< /lead >}}
 
-If you asked me, "How's the first day of being the leader of NSG?"
+If you asked me, *"How's the first day of being the leader of NSG?"*
 
 Honestly, when I first stepped up, I didn't fully realize how much responsibility came with leading a gang.
 
-That changed when I started sending direct messages to former and current NSG members on Discord. As I reached out to people, I realized that rebuilding the gang wasn't just about creating a new roster. We would also need to rebuild our resources, funds, and support network from the ground up.
+That changed when I started sending direct messages to former and current NSG members on [Discord](https://discord.com). As I reached out to people, I realized that rebuilding the gang wasn't just about creating a new roster. We would also need to rebuild our resources, funds, and support network from the ground up.
 
-If you've read my [previous announcement on June 16](/news/back-and-rebuilding), you'll know that [Xythran](members/xythran) committed to helping me even before we officially re-established the gang in [CyberCode Online](https://cybercodeonline.com).
+If you've read my [previous announcement](/news/back-and-rebuilding) on June 16, you'll know that [Xythran](members/xythran) committed to helping me even before we officially re-established the gang in [CyberCode Online](https://cybercodeonline.com).
 
 Yesterday, June 17, I reached out to [Homongji](members/jude) and asked if he could commit as well. He accepted my invitation, joined the game, and told me he could balance helping the gang alongside his studies.
 
@@ -47,7 +47,7 @@ Even if he isn't inside the gang, he's NSG by heart.
 
 And speaking of [Chief_Marauder](members/chief_marauder), today (June 18) is his birthday.
 
-[Xythran](members/xythran), [Chief_Marauder](members/chief_marauder), and [I](members/k4lm3d) happened to be online shortly after midnight when he casually mentioned it in Tagalog chat. Of course, I couldn't go to sleep without sending him a birthday message and a small gift.
+[Xythran](members/xythran), [Chief_Marauder](members/chief_marauder), and I happened to be online shortly after midnight when he casually mentioned it in Tagalog chat. Of course, I couldn't go to sleep without sending him a birthday message and a small gift.
 
 Moving on.
 
@@ -73,12 +73,12 @@ That feeling became even stronger after I looked through an old screenshot from 
 
 At that time, the former gang was **Level 36** and had the following upkeep status:
 
-*Resources:* **32,861*& / **2,328**
-*Funds:* **15,490,438** / **232,813**
+> *Resources:* **32,861** / **2,328**\
+> *Funds:* **15,490,438** / **232,813**
 
 When I did the math, the resources would have only lasted around **fourteen more weeks** from January 27.
 
-That means the gang most likely dissolved during the last week of April—almost a month before **BLACK_ACE** eventually discovered it.
+That means the gang most likely dissolved during the **last week of April**&mdash;almost a month before **BLACK_ACE** eventually discovered it.
 
 Isn't that crazy?
 
@@ -88,7 +88,7 @@ And what was I doing during that time?
 
 Real life.
 
-I was busy with work, responsibilities, and everything else outside the game.
+I was busy with church activities, responsibilities, and everything else outside the game.
 
 But part of me still thinks that if I had cared enough, I could have checked in every now and then.
 
@@ -104,7 +104,7 @@ At the time of writing, we're already making progress toward that goal.
 
 However, I also need to be realistic.
 
-I may need to lower our target to Level 20 for now, since I'm not sure whether my current supply of Gang Crates will be enough to carry us all the way. Even so, we'll push as far as we can and see where our efforts take us—especially now that Xythran and Homongji are helping with the rebuild.
+I may need to lower our target to Level 20 for now, since I'm not sure whether my current *supply of Gang Crates* will be enough to carry us all the way. Even so, we'll push as far as we can and see where our efforts take us—especially now that [Xythran](members/xythran) and [Homongji](members/jude) are helping with the rebuild.
 
 I've placed my trust in both of them and granted them permissions to invite members and post gang announcements using [CyberCode Online](https://cybercodeonline.com)'s built-in gang announcement system.
 
