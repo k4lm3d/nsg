@@ -67,6 +67,8 @@ As of writing this, there are only three members in the roster:
 * [Xythran](members/xythran)
 * [Homongji](members/jude)
 
+![2026 June 17 Nousagi Gang Member Roster in CyberCode Online](CCO_NSG_Roster_20260618.jpg)
+
 I'm not going to lie.
 
 I've done a lot of overthinking, and most of it hasn't been positive.
@@ -81,10 +83,14 @@ What I do regret is that I wasn't able to help [En_Roise](members/en_roise) pres
 
 That feeling became even stronger after I looked through an old screenshot from January.
 
+![Nousagi Gang Headquarters Screenshot 2026 January 27](Screenshot_From_20260127.jpg)
+
 At that time, the former gang was **Level 36** and had the following upkeep status:
 
 > *Resources:* **32,861** / **2,328**\
 > *Funds:* **15,490,438** / **232,813**
+
+![Nousagi Gang Upkeep Computation](NSG_Upkeep_Computation.jpg)
 
 When I did the math, the resources would have only lasted around **fourteen more weeks** from January 27.
 
@@ -114,6 +120,8 @@ Our original goal was to reach Level 36 again, matching the former NSG before it
 
 At the time of writing, we're already making progress toward that goal.
 
+![Nousagi Gang Headquarters on CyberCode Online 2026 June 18](CCO_NSG_HQ_20260618.jpg)
+
 However, I also need to be realistic.
 
 I may need to lower our target to Level 20 for now, since I'm not sure whether my current *supply of Gang Crates* will be enough to carry us all the way. Even so, we'll push as far as we can and see where our efforts take us—especially now that [Xythran](members/xythran) and [Homongji](members/jude) are helping with the rebuild.
@@ -131,3 +139,5 @@ For now, all I can say is this:
 {{< /lead >}}
 
 *Stay tuned for future gang news, updates, and announcements.*
+
+![How to Rejoin Nousagi [NSG] on CyberCode Online](/infographics/REJOIN-NSG-CCO1.png)
