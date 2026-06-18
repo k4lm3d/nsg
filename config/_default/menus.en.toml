@@ -26,23 +26,22 @@
   weight = 11
 
 [[main]]
-  name = "Harewire"
+  name = "History & Legacy"
   parent = "About"
-  pageRef = "harewire"
+  pageRef = "history"
   weight = 12
-
-[[main]]
-  name = "Terminologies"
-  parent = "About"
-  pageRef = "terminologies"
-  weight = 13
 
 [[main]]
   name = "Contact Us"
   parent = "About"
   pageRef = "contact"
-  weight = 14
+  weight = 13
 
+[[main]]
+  name = "Harewire"
+  parent = "About"
+  pageRef = "harewire"
+  weight = 14
 
 [[main]]
   name = "News"
@@ -82,6 +81,12 @@
   parent = "Members"
   pageRef = "roles"
   weight = 33
+
+[[main]]
+  name = "Roster"
+  parent = "Members"
+  pageRef = "roster"
+  weight = 34
 
 #[[main]]
 #  name = "Parent"
@@ -131,27 +136,22 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+ [[footer]]
+   name = "Gaming Guidelines"
+   pageRef = "gaming-guidelines"
+   weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
-
-[[footer]]
-  name = "Gaming Guidelines"
-  pageRef = "gaming-guidelines"
-  weight = 10
+ [[footer]]
+   name = "HOP Protocol"
+   pageRef = "hop-protocol"
+   weight = 11
 
 [[footer]]
-  name = "HOP Protocol"
-  pageRef = "hop-protocol"
-  weight = 11
-
-[[footer]]
-  name = "Contributions"
-  pageRef = "contributions"
+  name = "Privacy Policy"
+  pageRef = "legal"
   weight = 12
+
+[[footer]]
+  name = "Site Resources"
+  pageRef = "resources"
+  weight = 13

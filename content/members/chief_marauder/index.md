@@ -1,9 +1,9 @@
 ---
-title: 'Chief_Marauder'
+title: Chief_Marauder
 date: 2025-07-11T19:13:59+08:00
 draft: false
 tags: ["CyberCode Online", "Arclight City", "Torn"]
-# externalUrl: "https://nousagi.onrender.com"
+# externalUrl: ""
 weight: 2
 showDate: false
 showAuthor: false
@@ -14,7 +14,7 @@ aliases:
 layoutBackgroundHeaderSpace: false
 ---
 
-<img src="Chief_Marauder.jpg" width="250">
+![Chief_Marauder's avatar](Chief_Marauder.jpg)
 
 - **Username:** `Chief_Marauder`
 - **Role:** `Fixer`

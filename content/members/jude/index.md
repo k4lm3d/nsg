@@ -1,9 +1,9 @@
 ---
-title: 'Jude'
+title: Jude
 date: 2025-03-11T07:13:50+08:00
 draft: false
 tags: ["CyberCode Online", "Arclight City", "Torn"]
-# externalUrl: "https://nousagi.onrender.com"
+# externalUrl: ""
 weight: 5
 showDate: false
 showAuthor: false
@@ -12,7 +12,15 @@ aliases:
 layoutBackgroundHeaderSpace: false
 ---
 
-<img src="Jude.jpg" width="250">
+#### Info
+
+![Jude's avatar](Jude.jpg)
+
+- **Username:** `Homongji`
+  - Former usernames: `Azhulong_31`, `Tarntamount`, `Tamaraw31`
+- **Nickname:** `Jude`
+- **Gender:** `Male`
+- **Role:** `Enforcer`
 
 #### Socials
 

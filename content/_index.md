@@ -13,4 +13,15 @@ description: "Nousagi Gang is a Filipino multi-gaming community founded in 2022,
 
 <br />
 <br />
+
+### Explore the Community
+
+* [**History & Legacy**](/history) – Learn how NSG was founded and how the community grew.
+* [**Gaming Guidelines**](/gaming-guidelines) – The principles that guide our conduct as gamers.
+* [**HOP Protocol**](/hop-protocol) – Our internal framework for cooperation and organization.
+
+NSG continues to grow with every new member and every new adventure.
+
+<br />
+<br />
 <br />
