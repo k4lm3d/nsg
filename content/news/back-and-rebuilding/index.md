@@ -12,7 +12,7 @@ showTableOfContents: true
 showDate: true
 showDateUpdated: true
 tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
-showAuthor: true
+showAuthor: false
 authors: ["k4lm3d", "jude", "xythran"]
 showAuthorsBadges: false
 showReadingTime: true
