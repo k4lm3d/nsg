@@ -12,6 +12,7 @@ showDateUpdated: true
 tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
 showAuthor: true
 authors: ["k4lm3d", "jude", "xythran"]
+showAuthorsBadges: true
 ---
 
 To all current and former members of Nousagi Gang PH,
