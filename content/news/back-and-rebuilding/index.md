@@ -118,3 +118,9 @@ United by games, bound by values.
   As we begin this new chapter, we carry forward the spirit of NSG and the friendships that made it special. We look forward to creating new memories together and welcoming both returning and new members into the community once again.
   {{< /accordionItem >}}
 {{< /accordion >}}
+
+---
+
+#### Updates:
+
+{{< article link="/news/rebuilding-day-one/" showSummary=true compactSummary=true >}}
