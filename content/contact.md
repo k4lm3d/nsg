@@ -9,13 +9,14 @@ cardViewScreenWidth: false
 ![Nousagi Gang banner](/banners/standard.gif)
 
 ## In-Game
-- CyberCode Online: Direct message `En_Roise` or `Xythran`
-- Arclight City: Direct message `En_Roise`
+- [CyberCode Online](https://cybercodeonline.com) : Contact `K4LM3D`, `Xythran` or `Homongji`
+- [Arclight City](https://arclightcity.net) : Contact `Xythran`
 
 ## Social Media
-- Facebook: Message our page: [facebook.com/nousagigangph](https://facebook.com/nousagigangph)
+- [Facebook](https://Facebook.com) : Message our page: [facebook.com/NousagiGangPH](https://facebook.com/nousagigangph)
+- [Discord](https://discord.com) : Thru DM only
 
 ## Email
-- Email us at [nsg.ph@proton.me](mailto:nsg.ph@proton.me)
+- Email us at [NSG.PH@proton.me](mailto:nsg.ph@proton.me)
 
 <!-- {{< article link="/members/en_roise" >}} -->
