@@ -22,7 +22,7 @@ tags: ["Cybernetic Entities"]
 ### Functions
 - {{< icon "bell" >}} To alert the gang about critical information
 - {{< icon "envelope" >}} To direct message gang members
-- {{< icon "database" >}} To store data about Nousagi Gang
+- {{< icon "list" >}} To store data about Nousagi Gang
 - {{< icon "file-lines" >}} To document happenings about the gang by writing logs
 
 ___
